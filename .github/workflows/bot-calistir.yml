@@ -1,0 +1,34 @@
+name: Canli Skor Guncelleme
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Python'u Kur
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          
+      - name: Kütüphaneleri Yükle
+        run: |
+          pip install -r requirements.txt
+          
+      - name: Botu Calistir
+        run: python bot.py
+        
+      - name: JSON Dosyasini Kaydet ve Guncelle
+        run: |
+          git config --global user.name "SkorBotu"
+          git config --global user.email "bot@betgod.com"
+          git add .
+          git commit -m "Canli skorlar guncellendi" || echo "Degisiklik yok, hata atlandi"
+          git push || echo "Push edilecek bir sey yok, hata atlandi"
