@@ -1,28 +1,20 @@
 {
-  "last_updated": "2026-09-04T19:01:17.577391",
+  "last_updated": "2026-09-04T19:13:53.633390",
   "source": "Kambi CDN (La Liga)",
   "matches": [
     {
       "league": "İspanya La Liga",
-      "home": "Villarreal CF B",
-      "away": "Algeciras CF",
-      "time": "19:59",
-      "date": "04.09.2026",
-      "odds": "Oran Yok"
-    },
-    {
-      "league": "İspanya La Liga",
       "home": "Real Betis",
       "away": "Real Madrid",
-      "time": "22:04",
+      "time": "22:02",
       "date": "04.09.2026",
-      "odds": "MS1: 6.25 | X: 5.10 | MS2: 1.43"
+      "odds": "MS1: 7.00 | X: 4.90 | MS2: 1.38"
     },
     {
       "league": "İspanya La Liga",
       "home": "Ponferradina",
       "away": "Lugo",
-      "time": "22:15",
+      "time": "22:17",
       "date": "04.09.2026",
       "odds": "MS1: 1.93 | X: 2.95 | MS2: 3.85"
     },
