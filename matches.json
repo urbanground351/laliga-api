@@ -1,23 +1,7 @@
 {
-  "last_updated": "2026-09-04T20:58:28.711612",
+  "last_updated": "2026-09-04T21:12:49.325924",
   "source": "Kambi CDN (La Liga)",
   "matches": [
-    {
-      "league": "İspanya La Liga",
-      "home": "Real Betis",
-      "away": "Real Madrid",
-      "time": "22:02",
-      "date": "04.09.2026",
-      "odds": "MS1: 1.33 | X: 3.65 | MS2: 21.00"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "Ponferradina",
-      "away": "Lugo",
-      "time": "22:15",
-      "date": "04.09.2026",
-      "odds": "MS1: 6.75 | X: 1.15 | MS2: 10.50"
-    },
     {
       "league": "İspanya La Liga",
       "home": "Espanyol (W)",
@@ -41,6 +25,14 @@
       "time": "17:15",
       "date": "05.09.2026",
       "odds": "MS1: 3.05 | X: 3.40 | MS2: 2.30"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Mirandés",
+      "away": "UD Ourense",
+      "time": "17:30",
+      "date": "05.09.2026",
+      "odds": "MS1: 1.46 | X: 3.75 | MS2: 6.10"
     },
     {
       "league": "İspanya La Liga",
