@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-04T22:40:30.126067",
+  "last_updated": "2026-09-04T22:49:22.909128",
   "source": "Kambi CDN (La Liga)",
   "matches": [
     {
@@ -41,6 +41,14 @@
       "time": "19:00",
       "date": "05.09.2026",
       "odds": "MS1: 1.65 | X: 3.20 | MS2: 5.00"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "UE Sant Andreu",
+      "away": "Águilas FC",
+      "time": "19:15",
+      "date": "05.09.2026",
+      "odds": "MS1: 1.84 | X: 3.10 | MS2: 3.95"
     },
     {
       "league": "İspanya La Liga",
