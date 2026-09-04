@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-04T22:58:10.930882",
+  "last_updated": "2026-09-04T23:11:35.363145",
   "source": "Kambi CDN (La Liga)",
   "matches": [
     {
@@ -57,6 +57,22 @@
       "time": "19:30",
       "date": "05.09.2026",
       "odds": "MS1: 2.16 | X: 3.40 | MS2: 3.35"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Pontevedra",
+      "away": "Arenas Club de Getxo",
+      "time": "19:45",
+      "date": "05.09.2026",
+      "odds": "MS1: 1.83 | X: 3.20 | MS2: 3.90"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Unionistas de Salamanca CF",
+      "away": "Real Unión",
+      "time": "19:45",
+      "date": "05.09.2026",
+      "odds": "MS1: 2.17 | X: 3.00 | MS2: 3.10"
     },
     {
       "league": "İspanya La Liga",
