@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-04T22:19:02.327094",
+  "last_updated": "2026-09-04T22:29:40.889364",
   "source": "Kambi CDN (La Liga)",
   "matches": [
     {
@@ -33,6 +33,14 @@
       "time": "17:30",
       "date": "05.09.2026",
       "odds": "MS1: 1.46 | X: 3.75 | MS2: 6.10"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "UD Ibiza",
+      "away": "CF Rayo Majadahonda",
+      "time": "19:00",
+      "date": "05.09.2026",
+      "odds": "MS1: 1.65 | X: 3.20 | MS2: 5.00"
     },
     {
       "league": "İspanya La Liga",
