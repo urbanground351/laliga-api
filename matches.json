@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-04T19:23:37.885505",
+  "last_updated": "2026-09-04T19:32:41.086282",
   "source": "Kambi CDN (La Liga)",
   "matches": [
     {
@@ -8,7 +8,7 @@
       "away": "Real Madrid",
       "time": "22:02",
       "date": "04.09.2026",
-      "odds": "MS1: 6.50 | X: 4.60 | MS2: 1.42"
+      "odds": "MS1: 5.75 | X: 3.95 | MS2: 1.54"
     },
     {
       "league": "İspanya La Liga",
@@ -16,7 +16,15 @@
       "away": "Lugo",
       "time": "22:15",
       "date": "04.09.2026",
-      "odds": "MS1: 2.02 | X: 2.95 | MS2: 3.45"
+      "odds": "MS1: 2.08 | X: 2.75 | MS2: 3.70"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Espanyol (W)",
+      "away": "FC Levante Las Planas (W)",
+      "time": "13:00",
+      "date": "05.09.2026",
+      "odds": "MS1: 2.95 | X: 2.95 | MS2: 2.23"
     },
     {
       "league": "İspanya La Liga",
