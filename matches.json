@@ -1,30 +1,14 @@
 {
-  "last_updated": "2026-09-05T18:31:56.051200",
+  "last_updated": "2026-09-05T18:45:13.620711",
   "source": "Kambi CDN (La Liga)",
   "matches": [
-    {
-      "league": "İspanya La Liga",
-      "home": "Pontevedra",
-      "away": "Arenas Club de Getxo",
-      "time": "19:45",
-      "date": "05.09.2026",
-      "odds": "Oran Yok"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "Unionistas de Salamanca CF",
-      "away": "Real Unión",
-      "time": "19:45",
-      "date": "05.09.2026",
-      "odds": "Oran Yok"
-    },
     {
       "league": "İspanya La Liga",
       "home": "CD Coria",
       "away": "Barakaldo",
       "time": "19:46",
       "date": "05.09.2026",
-      "odds": "MS1: 0.00 | X: 0.00 | MS2: 0.00"
+      "odds": "Oran Yok"
     },
     {
       "league": "İspanya La Liga",
@@ -32,7 +16,7 @@
       "away": "Gimnàstic de Tarragona",
       "time": "19:47",
       "date": "05.09.2026",
-      "odds": "MS1: 4.60 | X: 1.28 | MS2: 8.50"
+      "odds": "Oran Yok"
     },
     {
       "league": "İspanya La Liga",
@@ -40,7 +24,7 @@
       "away": "CF Rayo Majadahonda",
       "time": "20:01",
       "date": "05.09.2026",
-      "odds": "MS1: 1.13 | X: 5.75 | MS2: 30.00"
+      "odds": "MS1: 5.40 | X: 1.22 | MS2: 9.50"
     },
     {
       "league": "İspanya La Liga",
@@ -48,7 +32,7 @@
       "away": "FC Barcelona (W)",
       "time": "21:30",
       "date": "05.09.2026",
-      "odds": "MS1: 41.00 | X: 15.00 | MS2: 0.00"
+      "odds": "MS1: 0.00 | X: 29.00 | MS2: 0.00"
     },
     {
       "league": "İspanya La Liga",
@@ -65,6 +49,14 @@
       "time": "22:00",
       "date": "05.09.2026",
       "odds": "MS1: 1.56 | X: 3.50 | MS2: 5.25"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "RC Deportivo Fabril",
+      "away": "Cacereño",
+      "time": "13:00",
+      "date": "06.09.2026",
+      "odds": "MS1: 2.55 | X: 2.85 | MS2: 2.65"
     },
     {
       "league": "İspanya La Liga",
