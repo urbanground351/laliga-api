@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-05T19:27:45.768976",
+  "last_updated": "2026-09-05T19:37:33.495879",
   "source": "Kambi CDN (La Liga)",
   "matches": [
     {
@@ -16,7 +16,7 @@
       "away": "Deportivo A Coruña",
       "time": "22:00",
       "date": "05.09.2026",
-      "odds": "MS1: 1.19 | X: 6.25 | MS2: 14.00"
+      "odds": "MS1: 1.20 | X: 6.00 | MS2: 14.00"
     },
     {
       "league": "İspanya La Liga",
@@ -24,7 +24,15 @@
       "away": "Antequera CF",
       "time": "22:02",
       "date": "05.09.2026",
-      "odds": "MS1: 1.83 | X: 2.90 | MS2: 4.40"
+      "odds": "MS1: 1.90 | X: 2.75 | MS2: 4.40"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Atlético Madrid (W)",
+      "away": "Deportivo Alaves (W)",
+      "time": "13:00",
+      "date": "06.09.2026",
+      "odds": "MS1: 1.32 | X: 4.90 | MS2: 6.25"
     },
     {
       "league": "İspanya La Liga",
