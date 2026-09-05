@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-05T05:50:54.255975",
+  "last_updated": "2026-09-05T05:58:57.808873",
   "source": "Kambi CDN (La Liga)",
   "matches": [
     {
@@ -17,6 +17,14 @@
       "time": "13:00",
       "date": "05.09.2026",
       "odds": "MS1: 1.55 | X: 3.60 | MS2: 5.20"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Valencia (W)",
+      "away": "Madrid CFF (W)",
+      "time": "13:00",
+      "date": "05.09.2026",
+      "odds": "MS1: 3.80 | X: 3.15 | MS2: 1.84"
     },
     {
       "league": "İspanya La Liga",
