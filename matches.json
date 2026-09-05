@@ -1,30 +1,14 @@
 {
-  "last_updated": "2026-09-05T18:17:04.926326",
+  "last_updated": "2026-09-05T18:31:56.051200",
   "source": "Kambi CDN (La Liga)",
   "matches": [
-    {
-      "league": "İspanya La Liga",
-      "home": "UE Sant Andreu",
-      "away": "Águilas FC",
-      "time": "19:15",
-      "date": "05.09.2026",
-      "odds": "MS1: 1.03 | X: 11.00 | MS2: 0.00"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "Rayo Vallecano",
-      "away": "Racing Santander",
-      "time": "19:29",
-      "date": "05.09.2026",
-      "odds": "MS1: 1.10 | X: 7.50 | MS2: 61.00"
-    },
     {
       "league": "İspanya La Liga",
       "home": "Pontevedra",
       "away": "Arenas Club de Getxo",
       "time": "19:45",
       "date": "05.09.2026",
-      "odds": "MS1: 1.01 | X: 19.00 | MS2: 0.00"
+      "odds": "Oran Yok"
     },
     {
       "league": "İspanya La Liga",
@@ -32,7 +16,7 @@
       "away": "Real Unión",
       "time": "19:45",
       "date": "05.09.2026",
-      "odds": "MS1: 0.00 | X: 18.00 | MS2: 1.01"
+      "odds": "Oran Yok"
     },
     {
       "league": "İspanya La Liga",
@@ -40,7 +24,7 @@
       "away": "Barakaldo",
       "time": "19:46",
       "date": "05.09.2026",
-      "odds": "MS1: 1.03 | X: 12.00 | MS2: 41.00"
+      "odds": "MS1: 0.00 | X: 0.00 | MS2: 0.00"
     },
     {
       "league": "İspanya La Liga",
@@ -48,7 +32,7 @@
       "away": "Gimnàstic de Tarragona",
       "time": "19:47",
       "date": "05.09.2026",
-      "odds": "MS1: 2.80 | X: 1.71 | MS2: 5.80"
+      "odds": "MS1: 4.60 | X: 1.28 | MS2: 8.50"
     },
     {
       "league": "İspanya La Liga",
@@ -56,7 +40,7 @@
       "away": "CF Rayo Majadahonda",
       "time": "20:01",
       "date": "05.09.2026",
-      "odds": "MS1: 2.28 | X: 2.02 | MS2: 5.60"
+      "odds": "MS1: 1.13 | X: 5.75 | MS2: 30.00"
     },
     {
       "league": "İspanya La Liga",
@@ -64,7 +48,7 @@
       "away": "FC Barcelona (W)",
       "time": "21:30",
       "date": "05.09.2026",
-      "odds": "MS1: 36.00 | X: 15.00 | MS2: 0.00"
+      "odds": "MS1: 41.00 | X: 15.00 | MS2: 0.00"
     },
     {
       "league": "İspanya La Liga",
@@ -80,7 +64,7 @@
       "away": "Antequera CF",
       "time": "22:00",
       "date": "05.09.2026",
-      "odds": "MS1: 1.55 | X: 3.50 | MS2: 5.40"
+      "odds": "MS1: 1.56 | X: 3.50 | MS2: 5.25"
     },
     {
       "league": "İspanya La Liga",
@@ -104,7 +88,7 @@
       "away": "Levante",
       "time": "19:30",
       "date": "06.09.2026",
-      "odds": "MS1: 2.28 | X: 3.30 | MS2: 3.15"
+      "odds": "MS1: 2.30 | X: 3.25 | MS2: 3.20"
     },
     {
       "league": "İspanya La Liga",
