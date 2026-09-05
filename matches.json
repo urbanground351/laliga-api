@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-09-05T08:25:36.975822",
+  "last_updated": "2026-09-05T08:37:43.934592",
   "source": "Kambi CDN (La Liga)",
   "matches": [
-    {
-      "league": "İspanya La Liga",
-      "home": "Espanyol (W)",
-      "away": "FC Levante Las Planas (W)",
-      "time": "13:00",
-      "date": "05.09.2026",
-      "odds": "MS1: 2.95 | X: 2.95 | MS2: 2.23"
-    },
     {
       "league": "İspanya La Liga",
       "home": "Real Madrid Castilla",
@@ -17,6 +9,14 @@
       "time": "13:00",
       "date": "05.09.2026",
       "odds": "MS1: 1.55 | X: 3.60 | MS2: 5.20"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Espanyol (W)",
+      "away": "FC Levante Las Planas (W)",
+      "time": "13:00",
+      "date": "05.09.2026",
+      "odds": "MS1: 2.95 | X: 2.95 | MS2: 2.23"
     },
     {
       "league": "İspanya La Liga",
@@ -108,19 +108,19 @@
     },
     {
       "league": "İspanya La Liga",
-      "home": "Villarreal",
-      "away": "Deportivo A Coruña",
-      "time": "22:00",
-      "date": "05.09.2026",
-      "odds": "MS1: 1.48 | X: 4.40 | MS2: 6.50"
-    },
-    {
-      "league": "İspanya La Liga",
       "home": "Real Zaragoza",
       "away": "Antequera CF",
       "time": "22:00",
       "date": "05.09.2026",
       "odds": "MS1: 1.55 | X: 3.50 | MS2: 5.40"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Villarreal",
+      "away": "Deportivo A Coruña",
+      "time": "22:00",
+      "date": "05.09.2026",
+      "odds": "MS1: 1.48 | X: 4.40 | MS2: 6.50"
     },
     {
       "league": "İspanya La Liga",
