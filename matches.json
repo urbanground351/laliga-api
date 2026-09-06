@@ -1,54 +1,46 @@
 {
-  "last_updated": "2026-09-06T16:05:27.429022",
+  "last_updated": "2026-09-06T16:21:08.817243",
   "source": "Kambi CDN (La Liga)",
   "matches": [
     {
       "league": "İspanya La Liga",
-      "home": "Valencia",
-      "away": "FC Barcelona",
-      "time": "17:17",
-      "date": "06.09.2026",
-      "odds": "Oran Yok"
-    },
-    {
-      "league": "İspanya La Liga",
       "home": "Hércules CF",
       "away": "Atlético Madrid B",
-      "time": "19:15",
+      "time": "19:16",
       "date": "06.09.2026",
-      "odds": "MS1: 1.84 | X: 3.25 | MS2: 3.70"
+      "odds": "MS1: 1.85 | X: 3.15 | MS2: 3.90"
     },
     {
       "league": "İspanya La Liga",
       "home": "Athletic Club Bilbao II",
       "away": "Real Avilés CF",
-      "time": "19:15",
+      "time": "19:16",
       "date": "06.09.2026",
-      "odds": "MS1: 2.00 | X: 3.20 | MS2: 3.30"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "Alcorcón",
-      "away": "CE Europa",
-      "time": "19:15",
-      "date": "06.09.2026",
-      "odds": "MS1: 1.54 | X: 3.90 | MS2: 4.80"
+      "odds": "MS1: 2.02 | X: 3.15 | MS2: 3.30"
     },
     {
       "league": "İspanya La Liga",
       "home": "CD Extremadura",
       "away": "Racing Club Ferrol",
-      "time": "19:15",
+      "time": "19:16",
       "date": "06.09.2026",
-      "odds": "MS1: 2.04 | X: 3.10 | MS2: 3.30"
+      "odds": "MS1: 2.02 | X: 3.05 | MS2: 3.40"
     },
     {
       "league": "İspanya La Liga",
       "home": "Real Murcia",
       "away": "Teruel",
-      "time": "19:15",
+      "time": "19:16",
       "date": "06.09.2026",
-      "odds": "MS1: 1.68 | X: 3.20 | MS2: 4.80"
+      "odds": "MS1: 1.72 | X: 3.10 | MS2: 4.75"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Alcorcón",
+      "away": "CE Europa",
+      "time": "19:17",
+      "date": "06.09.2026",
+      "odds": "MS1: 1.48 | X: 4.00 | MS2: 5.20"
     },
     {
       "league": "İspanya La Liga",
@@ -104,7 +96,7 @@
       "away": "Celta Vigo",
       "time": "20:00",
       "date": "07.09.2026",
-      "odds": "MS1: 2.43 | X: 2.85 | MS2: 3.40"
+      "odds": "MS1: 2.40 | X: 2.88 | MS2: 3.45"
     },
     {
       "league": "İspanya La Liga",
