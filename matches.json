@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-07T12:34:23.490867",
+  "last_updated": "2026-09-07T12:51:21.962956",
   "source": "Kambi CDN (La Liga)",
   "matches": [
     {
@@ -24,7 +24,7 @@
       "away": "Real Sociedad",
       "time": "22:30",
       "date": "07.09.2026",
-      "odds": "MS1: 3.35 | X: 3.40 | MS2: 2.14"
+      "odds": "MS1: 3.35 | X: 3.40 | MS2: 2.15"
     },
     {
       "league": "İspanya La Liga",
@@ -105,6 +105,30 @@
       "time": "22:00",
       "date": "14.09.2026",
       "odds": "MS1: 1.79 | X: 3.85 | MS2: 4.00"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Rayo Vallecano",
+      "away": "Espanyol",
+      "time": "20:00",
+      "date": "15.09.2026",
+      "odds": "MS1: 1.88 | X: 3.45 | MS2: 4.00"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Alaves",
+      "away": "Valencia",
+      "time": "21:00",
+      "date": "15.09.2026",
+      "odds": "MS1: 2.23 | X: 3.10 | MS2: 3.40"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Elche",
+      "away": "Real Madrid",
+      "time": "22:30",
+      "date": "15.09.2026",
+      "odds": "MS1: 10.00 | X: 5.80 | MS2: 1.26"
     }
   ]
 }
