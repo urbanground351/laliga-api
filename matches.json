@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-08T20:16:02.827568",
+  "last_updated": "2026-09-08T20:30:31.454912",
   "source": "Kambi CDN (La Liga)",
   "matches": [
     {
@@ -108,14 +108,6 @@
     },
     {
       "league": "İspanya La Liga",
-      "home": "Atlético Madrid",
-      "away": "Osasuna",
-      "time": "20:00",
-      "date": "16.09.2026",
-      "odds": "MS1: 1.50 | X: 4.10 | MS2: 6.50"
-    },
-    {
-      "league": "İspanya La Liga",
       "home": "Deportivo A Coruña",
       "away": "Sevilla",
       "time": "20:00",
@@ -124,11 +116,11 @@
     },
     {
       "league": "İspanya La Liga",
-      "home": "FC Barcelona",
-      "away": "Racing Santander",
-      "time": "22:30",
+      "home": "Atlético Madrid",
+      "away": "Osasuna",
+      "time": "20:00",
       "date": "16.09.2026",
-      "odds": "MS1: 1.10 | X: 10.50 | MS2: 19.00"
+      "odds": "MS1: 1.50 | X: 4.10 | MS2: 6.50"
     },
     {
       "league": "İspanya La Liga",
@@ -137,6 +129,14 @@
       "time": "22:30",
       "date": "16.09.2026",
       "odds": "MS1: 3.15 | X: 3.40 | MS2: 2.23"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "FC Barcelona",
+      "away": "Racing Santander",
+      "time": "22:30",
+      "date": "16.09.2026",
+      "odds": "MS1: 1.10 | X: 10.50 | MS2: 19.00"
     },
     {
       "league": "İspanya La Liga",
