@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10T20:02:43.425459",
+  "last_updated": "2026-09-10T20:18:08.659649",
   "source": "Kambi CDN (La Liga)",
   "matches": [
     {
@@ -25,6 +25,14 @@
       "time": "22:00",
       "date": "11.09.2026",
       "odds": "MS1: 2.05 | X: 3.20 | MS2: 3.90"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Gimnàstic de Tarragona",
+      "away": "Algeciras CF",
+      "time": "22:15",
+      "date": "11.09.2026",
+      "odds": "MS1: 2.04 | X: 3.05 | MS2: 3.30"
     },
     {
       "league": "İspanya La Liga",
