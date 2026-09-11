@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-11T21:57:20.125192",
+  "last_updated": "2026-09-11T22:11:13.114819",
   "source": "Kambi CDN (La Liga)",
   "matches": [
     {
@@ -48,7 +48,23 @@
       "away": "Elche",
       "time": "19:30",
       "date": "12.09.2026",
-      "odds": "MS1: 1.41 | X: 4.75 | MS2: 7.50"
+      "odds": "MS1: 1.41 | X: 4.70 | MS2: 7.50"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Real Avilés CF",
+      "away": "Unionistas de Salamanca CF",
+      "time": "19:45",
+      "date": "12.09.2026",
+      "odds": "MS1: 2.05 | X: 3.15 | MS2: 3.15"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Teruel",
+      "away": "Real Jaén CF",
+      "time": "19:45",
+      "date": "12.09.2026",
+      "odds": "MS1: 2.80 | X: 2.95 | MS2: 2.33"
     },
     {
       "league": "İspanya La Liga",
@@ -57,6 +73,14 @@
       "time": "22:00",
       "date": "12.09.2026",
       "odds": "MS1: 1.11 | X: 10.00 | MS2: 20.00"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "CF Rayo Majadahonda",
+      "away": "FC Cartagena",
+      "time": "22:00",
+      "date": "12.09.2026",
+      "odds": "MS1: 3.05 | X: 2.85 | MS2: 2.25"
     },
     {
       "league": "İspanya La Liga",
