@@ -1,28 +1,20 @@
 {
-  "last_updated": "2026-09-12T11:49:58.873791",
+  "last_updated": "2026-09-12T11:58:17.461470",
   "source": "Kambi CDN (La Liga)",
   "matches": [
-    {
-      "league": "İspanya La Liga",
-      "home": "Athletic Club Bilbao (W)",
-      "away": "Espanyol (W)",
-      "time": "13:00",
-      "date": "12.09.2026",
-      "odds": "MS1: 36.00 | X: 4.50 | MS2: 1.18"
-    },
     {
       "league": "İspanya La Liga",
       "home": "Águilas FC",
       "away": "Real Madrid Castilla",
       "time": "14:05",
       "date": "12.09.2026",
-      "odds": "MS1: 1.44 | X: 3.50 | MS2: 7.50"
+      "odds": "MS1: 1.50 | X: 3.35 | MS2: 6.75"
     },
     {
       "league": "İspanya La Liga",
       "home": "Racing Santander",
       "away": "Alaves",
-      "time": "15:00",
+      "time": "15:02",
       "date": "12.09.2026",
       "odds": "MS1: 2.55 | X: 3.45 | MS2: 2.63"
     },
@@ -52,19 +44,19 @@
     },
     {
       "league": "İspanya La Liga",
-      "home": "Teruel",
-      "away": "Real Jaén CF",
-      "time": "19:45",
-      "date": "12.09.2026",
-      "odds": "MS1: 3.30 | X: 2.95 | MS2: 2.08"
-    },
-    {
-      "league": "İspanya La Liga",
       "home": "Real Avilés CF",
       "away": "Unionistas de Salamanca CF",
       "time": "19:45",
       "date": "12.09.2026",
       "odds": "MS1: 2.05 | X: 3.15 | MS2: 3.15"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Teruel",
+      "away": "Real Jaén CF",
+      "time": "19:45",
+      "date": "12.09.2026",
+      "odds": "MS1: 3.30 | X: 2.95 | MS2: 2.08"
     },
     {
       "league": "İspanya La Liga",
@@ -84,6 +76,14 @@
     },
     {
       "league": "İspanya La Liga",
+      "home": "Merida AD",
+      "away": "Mirandés",
+      "time": "22:00",
+      "date": "12.09.2026",
+      "odds": "MS1: 3.10 | X: 2.90 | MS2: 2.23"
+    },
+    {
+      "league": "İspanya La Liga",
       "home": "Real Madrid",
       "away": "Rayo Vallecano",
       "time": "22:00",
@@ -97,14 +97,6 @@
       "time": "22:00",
       "date": "12.09.2026",
       "odds": "MS1: 3.05 | X: 2.85 | MS2: 2.25"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "Merida AD",
-      "away": "Mirandés",
-      "time": "22:00",
-      "date": "12.09.2026",
-      "odds": "MS1: 3.10 | X: 2.90 | MS2: 2.23"
     },
     {
       "league": "İspanya La Liga",
