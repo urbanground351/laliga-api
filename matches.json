@@ -1,22 +1,14 @@
 {
-  "last_updated": "2026-09-12T18:19:33.045923",
+  "last_updated": "2026-09-12T18:32:47.366080",
   "source": "Kambi CDN (La Liga)",
   "matches": [
-    {
-      "league": "İspanya La Liga",
-      "home": "Athletic Bilbao",
-      "away": "Elche",
-      "time": "19:30",
-      "date": "12.09.2026",
-      "odds": "MS1: 5.10 | X: 1.20 | MS2: 21.00"
-    },
     {
       "league": "İspanya La Liga",
       "home": "Teruel",
       "away": "Real Jaén CF",
       "time": "19:44",
       "date": "12.09.2026",
-      "odds": "MS1: 36.00 | X: 6.10 | MS2: 1.11"
+      "odds": "MS1: 0.00 | X: 46.00 | MS2: 0.00"
     },
     {
       "league": "İspanya La Liga",
@@ -24,7 +16,7 @@
       "away": "Unionistas de Salamanca CF",
       "time": "19:44",
       "date": "12.09.2026",
-      "odds": "MS1: 1.01 | X: 20.00 | MS2: 0.00"
+      "odds": "Oran Yok"
     },
     {
       "league": "İspanya La Liga",
@@ -32,7 +24,7 @@
       "away": "Fundación Albacete (W)",
       "time": "20:00",
       "date": "12.09.2026",
-      "odds": "MS1: 1.33 | X: 3.65 | MS2: 10.00"
+      "odds": "MS1: 1.11 | X: 6.00 | MS2: 34.00"
     },
     {
       "league": "İspanya La Liga",
@@ -40,7 +32,7 @@
       "away": "Atlético Madrid (W)",
       "time": "20:00",
       "date": "12.09.2026",
-      "odds": "MS1: 1.26 | X: 3.95 | MS2: 13.00"
+      "odds": "MS1: 0.00 | X: 11.50 | MS2: 0.00"
     },
     {
       "league": "İspanya La Liga",
