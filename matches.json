@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-12T07:35:30.613555",
+  "last_updated": "2026-09-12T07:44:31.121025",
   "source": "Kambi CDN (La Liga)",
   "matches": [
     {
@@ -105,6 +105,22 @@
       "time": "22:00",
       "date": "12.09.2026",
       "odds": "MS1: 3.05 | X: 2.85 | MS2: 2.25"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Racing Club Ferrol",
+      "away": "Real Unión",
+      "time": "13:00",
+      "date": "13.09.2026",
+      "odds": "MS1: 2.20 | X: 3.15 | MS2: 2.85"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Huesca",
+      "away": "Villarreal CF B",
+      "time": "13:00",
+      "date": "13.09.2026",
+      "odds": "MS1: 1.84 | X: 3.15 | MS2: 3.80"
     },
     {
       "league": "İspanya La Liga",
