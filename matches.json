@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-09-12T13:59:43.025717",
+  "last_updated": "2026-09-12T14:14:31.757150",
   "source": "Kambi CDN (La Liga)",
   "matches": [
     {
       "league": "İspanya La Liga",
       "home": "Osasuna",
       "away": "Espanyol",
-      "time": "17:15",
+      "time": "17:17",
       "date": "12.09.2026",
-      "odds": "MS1: 2.25 | X: 3.15 | MS2: 3.40"
+      "odds": "MS1: 2.25 | X: 3.15 | MS2: 3.45"
     },
     {
       "league": "İspanya La Liga",
@@ -24,7 +24,7 @@
       "away": "Elche",
       "time": "19:30",
       "date": "12.09.2026",
-      "odds": "MS1: 1.38 | X: 4.90 | MS2: 8.00"
+      "odds": "MS1: 1.35 | X: 5.00 | MS2: 8.50"
     },
     {
       "league": "İspanya La Liga",
@@ -113,6 +113,14 @@
       "time": "13:00",
       "date": "13.09.2026",
       "odds": "MS1: 1.84 | X: 3.15 | MS2: 3.80"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Real Sociedad (W)",
+      "away": "UD Granadilla Tenerife (W)",
+      "time": "13:00",
+      "date": "13.09.2026",
+      "odds": "MS1: 1.68 | X: 3.30 | MS2: 4.50"
     },
     {
       "league": "İspanya La Liga",
