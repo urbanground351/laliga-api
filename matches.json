@@ -1,38 +1,14 @@
 {
-  "last_updated": "2026-09-12T18:52:31.511518",
+  "last_updated": "2026-09-12T19:01:04.556620",
   "source": "Kambi CDN (La Liga)",
   "matches": [
-    {
-      "league": "İspanya La Liga",
-      "home": "Atletico Madrid B (W)",
-      "away": "Fundación Albacete (W)",
-      "time": "20:00",
-      "date": "12.09.2026",
-      "odds": "MS1: 1.02 | X: 13.00 | MS2: 0.00"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "FC Barcelona (W)",
-      "away": "Atlético Madrid (W)",
-      "time": "20:00",
-      "date": "12.09.2026",
-      "odds": "Oran Yok"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "Real Madrid",
-      "away": "Rayo Vallecano",
-      "time": "22:00",
-      "date": "12.09.2026",
-      "odds": "MS1: 1.12 | X: 9.50 | MS2: 18.00"
-    },
     {
       "league": "İspanya La Liga",
       "home": "CF Rayo Majadahonda",
       "away": "FC Cartagena",
       "time": "22:00",
       "date": "12.09.2026",
-      "odds": "MS1: 3.00 | X: 2.85 | MS2: 2.30"
+      "odds": "MS1: 3.00 | X: 2.90 | MS2: 2.28"
     },
     {
       "league": "İspanya La Liga",
@@ -40,7 +16,15 @@
       "away": "Mirandés",
       "time": "22:00",
       "date": "12.09.2026",
-      "odds": "MS1: 3.05 | X: 2.88 | MS2: 2.25"
+      "odds": "MS1: 3.00 | X: 2.85 | MS2: 2.28"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Real Madrid",
+      "away": "Rayo Vallecano",
+      "time": "22:04",
+      "date": "12.09.2026",
+      "odds": "MS1: 1.12 | X: 9.00 | MS2: 18.00"
     },
     {
       "league": "İspanya La Liga",
