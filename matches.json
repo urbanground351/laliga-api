@@ -1,22 +1,14 @@
 {
-  "last_updated": "2026-09-12T16:04:14.568477",
+  "last_updated": "2026-09-12T16:20:02.348405",
   "source": "Kambi CDN (La Liga)",
   "matches": [
-    {
-      "league": "İspanya La Liga",
-      "home": "Osasuna",
-      "away": "Espanyol",
-      "time": "17:15",
-      "date": "12.09.2026",
-      "odds": "Oran Yok"
-    },
     {
       "league": "İspanya La Liga",
       "home": "Madrid CFF (W)",
       "away": "Sevilla (W)",
       "time": "17:30",
       "date": "12.09.2026",
-      "odds": "MS1: 1.27 | X: 4.00 | MS2: 13.00"
+      "odds": "MS1: 1.10 | X: 6.25 | MS2: 36.00"
     },
     {
       "league": "İspanya La Liga",
@@ -32,7 +24,7 @@
       "away": "Real Jaén CF",
       "time": "19:45",
       "date": "12.09.2026",
-      "odds": "MS1: 3.30 | X: 3.00 | MS2: 2.07"
+      "odds": "MS1: 3.05 | X: 3.00 | MS2: 2.18"
     },
     {
       "league": "İspanya La Liga",
@@ -40,7 +32,7 @@
       "away": "Unionistas de Salamanca CF",
       "time": "19:45",
       "date": "12.09.2026",
-      "odds": "MS1: 2.05 | X: 3.15 | MS2: 3.15"
+      "odds": "MS1: 2.04 | X: 3.20 | MS2: 3.15"
     },
     {
       "league": "İspanya La Liga",
