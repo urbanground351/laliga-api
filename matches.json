@@ -1,30 +1,14 @@
 {
-  "last_updated": "2026-09-13T15:57:46.543908",
+  "last_updated": "2026-09-13T16:12:43.227612",
   "source": "Kambi CDN (La Liga)",
   "matches": [
-    {
-      "league": "İspanya La Liga",
-      "home": "RC Deportivo Fabril",
-      "away": "Ponferradina",
-      "time": "17:00",
-      "date": "13.09.2026",
-      "odds": "MS1: 1.04 | X: 10.50 | MS2: 0.00"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "Juventud de Torremolinos CF",
-      "away": "Real Zaragoza",
-      "time": "17:01",
-      "date": "13.09.2026",
-      "odds": "MS1: 0.00 | X: 0.00 | MS2: 0.00"
-    },
     {
       "league": "İspanya La Liga",
       "home": "Levante",
       "away": "FC Barcelona",
       "time": "17:17",
       "date": "13.09.2026",
-      "odds": "MS1: 0.00 | X: 201.00 | MS2: 0.00"
+      "odds": "MS1: 181.00 | X: 15.00 | MS2: 1.03"
     },
     {
       "league": "İspanya La Liga",
@@ -32,7 +16,7 @@
       "away": "Valencia (W)",
       "time": "18:00",
       "date": "13.09.2026",
-      "odds": "MS1: 2.08 | X: 2.40 | MS2: 4.60"
+      "odds": "MS1: 2.18 | X: 2.25 | MS2: 4.60"
     },
     {
       "league": "İspanya La Liga",
@@ -40,7 +24,7 @@
       "away": "Cultural Leonesa",
       "time": "19:15",
       "date": "13.09.2026",
-      "odds": "MS1: 3.25 | X: 3.05 | MS2: 2.08"
+      "odds": "MS1: 3.00 | X: 3.00 | MS2: 2.20"
     },
     {
       "league": "İspanya La Liga",
@@ -56,7 +40,7 @@
       "away": "Levante (W)",
       "time": "20:00",
       "date": "13.09.2026",
-      "odds": "MS1: 1.98 | X: 3.00 | MS2: 3.40"
+      "odds": "MS1: 1.98 | X: 3.00 | MS2: 3.45"
     },
     {
       "league": "İspanya La Liga",
