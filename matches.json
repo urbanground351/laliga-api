@@ -1,22 +1,14 @@
 {
-  "last_updated": "2026-09-13T16:58:32.674142",
+  "last_updated": "2026-09-13T17:12:09.712650",
   "source": "Kambi CDN (La Liga)",
   "matches": [
-    {
-      "league": "İspanya La Liga",
-      "home": "CDEF Logrono (W)",
-      "away": "Valencia (W)",
-      "time": "18:00",
-      "date": "13.09.2026",
-      "odds": "MS1: 0.00 | X: 25.00 | MS2: 0.00"
-    },
     {
       "league": "İspanya La Liga",
       "home": "Cacereño",
       "away": "Cultural Leonesa",
       "time": "19:15",
       "date": "13.09.2026",
-      "odds": "MS1: 3.45 | X: 2.48 | MS2: 2.38"
+      "odds": "MS1: 3.55 | X: 2.38 | MS2: 2.38"
     },
     {
       "league": "İspanya La Liga",
@@ -24,15 +16,15 @@
       "away": "Deportivo A Coruña",
       "time": "19:32",
       "date": "13.09.2026",
-      "odds": "MS1: 2.50 | X: 2.55 | MS2: 3.50"
+      "odds": "MS1: 2.60 | X: 2.38 | MS2: 3.70"
     },
     {
       "league": "İspanya La Liga",
       "home": "Alhama (W)",
       "away": "Levante (W)",
-      "time": "20:02",
+      "time": "20:01",
       "date": "13.09.2026",
-      "odds": "MS1: 1.98 | X: 3.00 | MS2: 3.45"
+      "odds": "MS1: 2.08 | X: 2.80 | MS2: 3.40"
     },
     {
       "league": "İspanya La Liga",
@@ -56,7 +48,7 @@
       "away": "Atlético Madrid",
       "time": "22:00",
       "date": "13.09.2026",
-      "odds": "MS1: 3.05 | X: 3.65 | MS2: 2.20"
+      "odds": "MS1: 3.25 | X: 3.60 | MS2: 2.12"
     },
     {
       "league": "İspanya La Liga",
