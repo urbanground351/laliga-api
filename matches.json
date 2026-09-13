@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-13T04:53:49.235363",
+  "last_updated": "2026-09-13T05:04:17.241955",
   "source": "Kambi CDN (La Liga)",
   "matches": [
     {
@@ -121,6 +121,22 @@
       "time": "19:30",
       "date": "13.09.2026",
       "odds": "MS1: 2.35 | X: 2.95 | MS2: 3.45"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Alhama (W)",
+      "away": "Levante (W)",
+      "time": "20:00",
+      "date": "13.09.2026",
+      "odds": "MS1: 1.98 | X: 3.00 | MS2: 3.40"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Eibar (W)",
+      "away": "FC Levante Las Planas (W)",
+      "time": "20:30",
+      "date": "13.09.2026",
+      "odds": "MS1: 3.30 | X: 2.95 | MS2: 2.10"
     },
     {
       "league": "İspanya La Liga",
