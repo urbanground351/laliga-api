@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-13T16:49:53.418915",
+  "last_updated": "2026-09-13T16:58:32.674142",
   "source": "Kambi CDN (La Liga)",
   "matches": [
     {
@@ -8,7 +8,7 @@
       "away": "Valencia (W)",
       "time": "18:00",
       "date": "13.09.2026",
-      "odds": "Oran Yok"
+      "odds": "MS1: 0.00 | X: 25.00 | MS2: 0.00"
     },
     {
       "league": "İspanya La Liga",
@@ -16,7 +16,7 @@
       "away": "Cultural Leonesa",
       "time": "19:15",
       "date": "13.09.2026",
-      "odds": "MS1: 3.55 | X: 2.70 | MS2: 2.14"
+      "odds": "MS1: 3.45 | X: 2.48 | MS2: 2.38"
     },
     {
       "league": "İspanya La Liga",
@@ -24,13 +24,13 @@
       "away": "Deportivo A Coruña",
       "time": "19:32",
       "date": "13.09.2026",
-      "odds": "MS1: 2.43 | X: 2.65 | MS2: 3.45"
+      "odds": "MS1: 2.50 | X: 2.55 | MS2: 3.50"
     },
     {
       "league": "İspanya La Liga",
       "home": "Alhama (W)",
       "away": "Levante (W)",
-      "time": "20:00",
+      "time": "20:02",
       "date": "13.09.2026",
       "odds": "MS1: 1.98 | X: 3.00 | MS2: 3.45"
     },
