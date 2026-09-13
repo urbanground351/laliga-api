@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-09-13T08:35:15.498710",
+  "last_updated": "2026-09-13T09:20:41.507442",
   "source": "Kambi CDN (La Liga)",
   "matches": [
-    {
-      "league": "İspanya La Liga",
-      "home": "FC Barcelona B (W)",
-      "away": "UD Tacuense (W)",
-      "time": "12:00",
-      "date": "13.09.2026",
-      "odds": "MS1: 1.19 | X: 6.10 | MS2: 9.00"
-    },
     {
       "league": "İspanya La Liga",
       "home": "Real Sociedad II (W)",
       "away": "CP Cacereno (W)",
       "time": "12:00",
       "date": "13.09.2026",
-      "odds": "MS1: 2.88 | X: 2.88 | MS2: 2.28"
+      "odds": "MS1: 3.10 | X: 2.63 | MS2: 2.35"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "FC Barcelona B (W)",
+      "away": "UD Tacuense (W)",
+      "time": "12:03",
+      "date": "13.09.2026",
+      "odds": "MS1: 1.22 | X: 5.60 | MS2: 8.00"
     },
     {
       "league": "İspanya La Liga",
@@ -24,7 +24,7 @@
       "away": "Real Unión",
       "time": "13:00",
       "date": "13.09.2026",
-      "odds": "MS1: 2.20 | X: 3.15 | MS2: 2.85"
+      "odds": "MS1: 2.17 | X: 3.25 | MS2: 2.88"
     },
     {
       "league": "İspanya La Liga",
@@ -56,7 +56,7 @@
       "away": "Granada CF (W)",
       "time": "13:00",
       "date": "13.09.2026",
-      "odds": "MS1: 2.16 | X: 3.20 | MS2: 2.80"
+      "odds": "MS1: 2.20 | X: 3.20 | MS2: 2.80"
     },
     {
       "league": "İspanya La Liga",
@@ -72,7 +72,7 @@
       "away": "Málaga",
       "time": "15:00",
       "date": "13.09.2026",
-      "odds": "MS1: 1.72 | X: 3.60 | MS2: 5.00"
+      "odds": "MS1: 1.68 | X: 3.65 | MS2: 5.25"
     },
     {
       "league": "İspanya La Liga",
@@ -120,7 +120,7 @@
       "away": "Deportivo A Coruña",
       "time": "19:30",
       "date": "13.09.2026",
-      "odds": "MS1: 2.35 | X: 2.95 | MS2: 3.45"
+      "odds": "MS1: 2.43 | X: 2.90 | MS2: 3.30"
     },
     {
       "league": "İspanya La Liga",
