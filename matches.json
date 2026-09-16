@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16T10:19:06.836285",
+  "last_updated": "2026-09-16T10:33:12.102802",
   "source": "Kambi CDN (La Liga)",
   "matches": [
     {
@@ -8,7 +8,7 @@
       "away": "Sevilla",
       "time": "20:00",
       "date": "16.09.2026",
-      "odds": "MS1: 2.50 | X: 3.05 | MS2: 3.00"
+      "odds": "MS1: 2.50 | X: 3.05 | MS2: 3.05"
     },
     {
       "league": "İspanya La Liga",
@@ -32,7 +32,7 @@
       "away": "Racing Santander",
       "time": "22:30",
       "date": "16.09.2026",
-      "odds": "MS1: 1.04 | X: 16.00 | MS2: 31.00"
+      "odds": "MS1: 1.05 | X: 16.00 | MS2: 30.00"
     },
     {
       "league": "İspanya La Liga",
@@ -176,7 +176,7 @@
       "away": "Real Sociedad",
       "time": "22:00",
       "date": "20.09.2026",
-      "odds": "MS1: 2.90 | X: 3.40 | MS2: 2.50"
+      "odds": "MS1: 2.88 | X: 3.40 | MS2: 2.50"
     }
   ]
 }
