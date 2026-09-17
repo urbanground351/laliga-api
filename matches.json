@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-17T19:00:17.665201",
+  "last_updated": "2026-09-17T19:15:33.923080",
   "source": "Kambi CDN (La Liga)",
   "matches": [
     {
@@ -177,6 +177,14 @@
       "time": "21:00",
       "date": "20.09.2026",
       "odds": "MS1: 2.50 | X: 2.90 | MS2: 2.65"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Real Zaragoza",
+      "away": "FC Cartagena",
+      "time": "21:30",
+      "date": "20.09.2026",
+      "odds": "MS1: 1.71 | X: 3.30 | MS2: 4.35"
     },
     {
       "league": "İspanya La Liga",
