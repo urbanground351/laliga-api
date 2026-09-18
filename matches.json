@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-18T16:53:37.983869",
+  "last_updated": "2026-09-18T17:03:39.018803",
   "source": "Kambi CDN (La Liga)",
   "matches": [
     {
@@ -24,7 +24,7 @@
       "away": "Elche",
       "time": "22:00",
       "date": "18.09.2026",
-      "odds": "MS1: 1.74 | X: 3.65 | MS2: 4.75"
+      "odds": "MS1: 1.74 | X: 3.65 | MS2: 4.80"
     },
     {
       "league": "İspanya La Liga",
@@ -33,6 +33,14 @@
       "time": "13:00",
       "date": "19.09.2026",
       "odds": "MS1: 2.95 | X: 3.15 | MS2: 2.14"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "UD Tacuense (W)",
+      "away": "Villarreal CF (W)",
+      "time": "13:00",
+      "date": "19.09.2026",
+      "odds": "MS1: 2.38 | X: 3.10 | MS2: 2.55"
     },
     {
       "league": "İspanya La Liga",
