@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-18T22:20:34.394534",
+  "last_updated": "2026-09-18T22:32:04.464281",
   "source": "Kambi CDN (La Liga)",
   "matches": [
     {
@@ -164,6 +164,14 @@
     },
     {
       "league": "İspanya La Liga",
+      "home": "Athletic Club Bilbao II",
+      "away": "RC Deportivo Fabril",
+      "time": "13:00",
+      "date": "20.09.2026",
+      "odds": "MS1: 2.18 | X: 2.80 | MS2: 3.25"
+    },
+    {
+      "league": "İspanya La Liga",
       "home": "Getafe",
       "away": "Málaga",
       "time": "15:00",
@@ -200,7 +208,7 @@
       "away": "Levante",
       "time": "19:30",
       "date": "20.09.2026",
-      "odds": "MS1: 1.50 | X: 4.60 | MS2: 5.80"
+      "odds": "MS1: 1.48 | X: 4.60 | MS2: 6.00"
     },
     {
       "league": "İspanya La Liga",
