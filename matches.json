@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-19T23:41:23.253858",
+  "last_updated": "2026-09-19T23:50:02.801795",
   "source": "Kambi CDN (La Liga)",
   "matches": [
     {
@@ -65,6 +65,14 @@
       "time": "19:00",
       "date": "20.09.2026",
       "odds": "MS1: 4.60 | X: 3.35 | MS2: 1.65"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Zamora CF",
+      "away": "Lugo",
+      "time": "19:15",
+      "date": "20.09.2026",
+      "odds": "MS1: 2.02 | X: 3.05 | MS2: 3.35"
     },
     {
       "league": "İspanya La Liga",
