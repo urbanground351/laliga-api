@@ -1,7 +1,15 @@
 {
-  "last_updated": "2026-09-19T22:57:31.136257",
+  "last_updated": "2026-09-19T23:10:14.294165",
   "source": "Kambi CDN (La Liga)",
   "matches": [
+    {
+      "league": "İspanya La Liga",
+      "home": "Sport Extremadura CD (W)",
+      "away": "Osasuna (W)",
+      "time": "13:00",
+      "date": "20.09.2026",
+      "odds": "MS1: 2.70 | X: 3.10 | MS2: 2.28"
+    },
     {
       "league": "İspanya La Liga",
       "home": "Granada CF (W)",
@@ -28,14 +36,6 @@
     },
     {
       "league": "İspanya La Liga",
-      "home": "Sport Extremadura CD (W)",
-      "away": "Osasuna (W)",
-      "time": "13:00",
-      "date": "20.09.2026",
-      "odds": "MS1: 2.70 | X: 3.10 | MS2: 2.28"
-    },
-    {
-      "league": "İspanya La Liga",
       "home": "Alcorcón",
       "away": "Gimnàstic de Tarragona",
       "time": "13:00",
@@ -48,7 +48,7 @@
       "away": "Málaga",
       "time": "15:00",
       "date": "20.09.2026",
-      "odds": "MS1: 2.02 | X: 3.05 | MS2: 4.25"
+      "odds": "MS1: 2.02 | X: 3.05 | MS2: 4.30"
     },
     {
       "league": "İspanya La Liga",
