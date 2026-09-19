@@ -1,23 +1,7 @@
 {
-  "last_updated": "2026-09-19T11:50:27.314217",
+  "last_updated": "2026-09-19T11:59:13.230890",
   "source": "Kambi CDN (La Liga)",
   "matches": [
-    {
-      "league": "İspanya La Liga",
-      "home": "UD Tacuense (W)",
-      "away": "Villarreal CF (W)",
-      "time": "13:00",
-      "date": "19.09.2026",
-      "odds": "MS1: 0.00 | X: 7.50 | MS2: 1.06"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "FC Levante Las Planas (W)",
-      "away": "Real Sociedad (W)",
-      "time": "13:00",
-      "date": "19.09.2026",
-      "odds": "MS1: 21.00 | X: 1.12 | MS2: 6.40"
-    },
     {
       "league": "İspanya La Liga",
       "home": "Unionistas de Salamanca CF",
@@ -30,7 +14,7 @@
       "league": "İspanya La Liga",
       "home": "Osasuna",
       "away": "Rayo Vallecano",
-      "time": "15:00",
+      "time": "15:02",
       "date": "19.09.2026",
       "odds": "MS1: 2.70 | X: 3.15 | MS2: 2.65"
     },
@@ -72,7 +56,7 @@
       "away": "Teruel",
       "time": "17:30",
       "date": "19.09.2026",
-      "odds": "MS1: 2.08 | X: 3.10 | MS2: 3.15"
+      "odds": "MS1: 1.97 | X: 3.10 | MS2: 3.40"
     },
     {
       "league": "İspanya La Liga",
@@ -184,7 +168,7 @@
       "away": "Málaga",
       "time": "15:00",
       "date": "20.09.2026",
-      "odds": "MS1: 2.02 | X: 3.05 | MS2: 4.30"
+      "odds": "MS1: 2.02 | X: 3.00 | MS2: 4.30"
     },
     {
       "league": "İspanya La Liga",
