@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-19T13:45:05.350268",
+  "last_updated": "2026-09-19T13:53:51.474446",
   "source": "Kambi CDN (La Liga)",
   "matches": [
     {
@@ -8,7 +8,7 @@
       "away": "Rayo Vallecano",
       "time": "15:00",
       "date": "19.09.2026",
-      "odds": "MS1: 8.50 | X: 1.22 | MS2: 7.50"
+      "odds": "MS1: 16.00 | X: 1.08 | MS2: 13.00"
     },
     {
       "league": "İspanya La Liga",
@@ -28,6 +28,14 @@
     },
     {
       "league": "İspanya La Liga",
+      "home": "CF Rayo Majadahonda",
+      "away": "Teruel",
+      "time": "17:30",
+      "date": "19.09.2026",
+      "odds": "MS1: 1.96 | X: 3.20 | MS2: 3.40"
+    },
+    {
+      "league": "İspanya La Liga",
       "home": "Racing Club Ferrol",
       "away": "Barakaldo",
       "time": "17:30",
@@ -40,15 +48,7 @@
       "away": "CE Europa",
       "time": "17:30",
       "date": "19.09.2026",
-      "odds": "MS1: 1.55 | X: 3.60 | MS2: 5.10"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "CF Rayo Majadahonda",
-      "away": "Teruel",
-      "time": "17:30",
-      "date": "19.09.2026",
-      "odds": "MS1: 1.97 | X: 3.10 | MS2: 3.40"
+      "odds": "MS1: 1.54 | X: 3.60 | MS2: 5.30"
     },
     {
       "league": "İspanya La Liga",
