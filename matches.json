@@ -1,22 +1,14 @@
 {
-  "last_updated": "2026-09-19T17:52:32.359445",
+  "last_updated": "2026-09-19T18:01:49.148515",
   "source": "Kambi CDN (La Liga)",
   "matches": [
-    {
-      "league": "İspanya La Liga",
-      "home": "Atlético Madrid (W)",
-      "away": "CDEF Logrono (W)",
-      "time": "19:00",
-      "date": "19.09.2026",
-      "odds": "MS1: 0.00 | X: 20.00 | MS2: 0.00"
-    },
     {
       "league": "İspanya La Liga",
       "home": "Celta Vigo",
       "away": "Racing Santander",
       "time": "19:32",
       "date": "19.09.2026",
-      "odds": "MS1: 1.03 | X: 15.00 | MS2: 56.00"
+      "odds": "MS1: 0.00 | X: 81.00 | MS2: 251.00"
     },
     {
       "league": "İspanya La Liga",
@@ -24,7 +16,7 @@
       "away": "Antequera CF",
       "time": "19:44",
       "date": "19.09.2026",
-      "odds": "MS1: 1.23 | X: 4.70 | MS2: 12.50"
+      "odds": "MS1: 1.17 | X: 5.10 | MS2: 16.00"
     },
     {
       "league": "İspanya La Liga",
@@ -32,7 +24,7 @@
       "away": "Real Avilés CF",
       "time": "19:45",
       "date": "19.09.2026",
-      "odds": "MS1: 2.40 | X: 2.55 | MS2: 3.25"
+      "odds": "MS1: 2.50 | X: 2.28 | MS2: 3.55"
     },
     {
       "league": "İspanya La Liga",
@@ -40,7 +32,7 @@
       "away": "Merida AD",
       "time": "19:46",
       "date": "19.09.2026",
-      "odds": "MS1: 1.56 | X: 3.15 | MS2: 6.40"
+      "odds": "MS1: 1.55 | X: 3.10 | MS2: 7.00"
     },
     {
       "league": "İspanya La Liga",
@@ -48,7 +40,7 @@
       "away": "Mirandés",
       "time": "19:47",
       "date": "19.09.2026",
-      "odds": "MS1: 2.90 | X: 2.25 | MS2: 3.05"
+      "odds": "MS1: 3.15 | X: 2.05 | MS2: 3.20"
     },
     {
       "league": "İspanya La Liga",
@@ -80,7 +72,7 @@
       "away": "FC Barcelona",
       "time": "22:00",
       "date": "19.09.2026",
-      "odds": "MS1: 9.50 | X: 6.75 | MS2: 1.24"
+      "odds": "MS1: 10.00 | X: 7.00 | MS2: 1.24"
     },
     {
       "league": "İspanya La Liga",
