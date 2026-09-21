@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-21T16:44:15.198174",
+  "last_updated": "2026-09-21T16:55:02.814300",
   "source": "Kambi CDN (La Liga)",
   "matches": [
     {
@@ -25,6 +25,14 @@
       "time": "17:30",
       "date": "26.09.2026",
       "odds": "MS1: 21.00 | X: 10.00 | MS2: 1.02"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Madrid CFF (W)",
+      "away": "Deportivo Alaves (W)",
+      "time": "19:30",
+      "date": "26.09.2026",
+      "odds": "MS1: 1.87 | X: 3.40 | MS2: 3.40"
     },
     {
       "league": "İspanya La Liga",
