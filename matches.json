@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-09-21T09:58:45.962460",
+  "last_updated": "2026-09-21T10:14:31.945468",
   "source": "Kambi CDN (La Liga)",
   "matches": [
+    {
+      "league": "İspanya La Liga",
+      "home": "FC Levante Las Planas (W)",
+      "away": "Granada CF (W)",
+      "time": "13:00",
+      "date": "26.09.2026",
+      "odds": "MS1: 1.82 | X: 3.25 | MS2: 3.80"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Real Sociedad (W)",
+      "away": "Real Madrid (W)",
+      "time": "13:00",
+      "date": "26.09.2026",
+      "odds": "MS1: 3.25 | X: 3.35 | MS2: 1.92"
+    },
     {
       "league": "İspanya La Liga",
       "home": "Málaga",
