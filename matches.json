@@ -1,7 +1,15 @@
 {
-  "last_updated": "2026-09-22T17:33:03.233685",
+  "last_updated": "2026-09-22T17:43:54.558932",
   "source": "Kambi CDN (La Liga)",
   "matches": [
+    {
+      "league": "İspanya La Liga",
+      "home": "Atlético Madrid B",
+      "away": "Villarreal CF B",
+      "time": "20:00",
+      "date": "25.09.2026",
+      "odds": "MS1: 2.02 | X: 3.30 | MS2: 3.15"
+    },
     {
       "league": "İspanya La Liga",
       "home": "FC Levante Las Planas (W)",
