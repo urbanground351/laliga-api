@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-22T16:00:56.182873",
+  "last_updated": "2026-09-22T16:18:17.078841",
   "source": "Kambi CDN (La Liga)",
   "matches": [
     {
@@ -57,6 +57,14 @@
       "time": "17:00",
       "date": "27.09.2026",
       "odds": "MS1: 1.93 | X: 3.05 | MS2: 3.65"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "RC Deportivo de la Coruna (W)",
+      "away": "Espanyol (W)",
+      "time": "19:00",
+      "date": "27.09.2026",
+      "odds": "MS1: 2.32 | X: 3.00 | MS2: 2.75"
     },
     {
       "league": "İspanya La Liga",
