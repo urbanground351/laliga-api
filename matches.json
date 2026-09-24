@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-24T13:49:31.405149",
+  "last_updated": "2026-09-24T13:59:27.407112",
   "source": "Kambi CDN (La Liga)",
   "matches": [
     {
@@ -257,6 +257,14 @@
       "time": "22:00",
       "date": "18.10.2026",
       "odds": "MS1: 1.30 | X: 5.60 | MS2: 8.50"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Getafe",
+      "away": "Rayo Vallecano",
+      "time": "22:00",
+      "date": "19.10.2026",
+      "odds": "MS1: 2.55 | X: 3.05 | MS2: 2.90"
     }
   ]
 }
