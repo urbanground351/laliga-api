@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-24T13:01:47.308249",
+  "last_updated": "2026-09-24T13:20:21.994360",
   "source": "Kambi CDN (La Liga)",
   "matches": [
     {
@@ -193,6 +193,14 @@
       "time": "22:00",
       "date": "12.10.2026",
       "odds": "MS1: 2.63 | X: 3.25 | MS2: 2.70"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Deportivo A Coruña",
+      "away": "Levante",
+      "time": "22:00",
+      "date": "16.10.2026",
+      "odds": "MS1: 2.10 | X: 3.45 | MS2: 3.60"
     }
   ]
 }
