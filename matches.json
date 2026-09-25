@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-09-25T19:03:17.426271",
+  "last_updated": "2026-09-25T19:17:51.924299",
   "source": "Kambi CDN (La Liga)",
   "matches": [
     {
       "league": "İspanya La Liga",
       "home": "UD Ibiza",
       "away": "Real Zaragoza",
-      "time": "22:15",
+      "time": "22:16",
       "date": "25.09.2026",
-      "odds": "MS1: 2.15 | X: 3.00 | MS2: 3.05"
+      "odds": "MS1: 2.17 | X: 3.00 | MS2: 3.05"
     },
     {
       "league": "İspanya La Liga",
@@ -65,6 +65,14 @@
       "time": "19:30",
       "date": "26.09.2026",
       "odds": "MS1: 1.87 | X: 3.40 | MS2: 3.40"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Gimnàstic de Tarragona",
+      "away": "UE Sant Andreu",
+      "time": "19:45",
+      "date": "26.09.2026",
+      "odds": "MS1: 1.93 | X: 3.00 | MS2: 3.75"
     },
     {
       "league": "İspanya La Liga",
