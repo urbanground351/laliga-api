@@ -1,30 +1,14 @@
 {
-  "last_updated": "2026-09-26T16:22:35.874355",
+  "last_updated": "2026-09-26T16:35:09.888866",
   "source": "Kambi CDN (La Liga)",
   "matches": [
-    {
-      "league": "İspanya La Liga",
-      "home": "CDEF Logrono (W)",
-      "away": "FC Barcelona (W)",
-      "time": "17:30",
-      "date": "26.09.2026",
-      "odds": "Oran Yok"
-    },
     {
       "league": "İspanya La Liga",
       "home": "Juventud de Torremolinos CF",
       "away": "Algeciras CF",
       "time": "17:31",
       "date": "26.09.2026",
-      "odds": "MS1: 8.50 | X: 1.18 | MS2: 6.75"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "Cultural Leonesa",
-      "away": "CD Coria",
-      "time": "17:32",
-      "date": "26.09.2026",
-      "odds": "MS1: 0.00 | X: 0.00 | MS2: 0.00"
+      "odds": "Oran Yok"
     },
     {
       "league": "İspanya La Liga",
@@ -32,7 +16,7 @@
       "away": "Fundación Albacete (W)",
       "time": "18:59",
       "date": "26.09.2026",
-      "odds": "MS1: 1.17 | X: 5.50 | MS2: 11.50"
+      "odds": "MS1: 1.83 | X: 2.75 | MS2: 4.60"
     },
     {
       "league": "İspanya La Liga",
@@ -40,7 +24,7 @@
       "away": "Deportivo Alaves (W)",
       "time": "19:30",
       "date": "26.09.2026",
-      "odds": "MS1: 1.88 | X: 3.35 | MS2: 3.40"
+      "odds": "MS1: 2.07 | X: 3.25 | MS2: 3.05"
     },
     {
       "league": "İspanya La Liga",
@@ -48,7 +32,7 @@
       "away": "UE Sant Andreu",
       "time": "19:45",
       "date": "26.09.2026",
-      "odds": "MS1: 1.94 | X: 3.00 | MS2: 3.75"
+      "odds": "MS1: 2.06 | X: 2.90 | MS2: 3.45"
     },
     {
       "league": "İspanya La Liga",
@@ -56,7 +40,7 @@
       "away": "Athletic Club Bilbao II",
       "time": "19:45",
       "date": "26.09.2026",
-      "odds": "MS1: 2.40 | X: 3.25 | MS2: 2.55"
+      "odds": "MS1: 2.85 | X: 3.20 | MS2: 2.20"
     },
     {
       "league": "İspanya La Liga",
@@ -64,7 +48,7 @@
       "away": "Real Unión",
       "time": "19:45",
       "date": "26.09.2026",
-      "odds": "MS1: 2.55 | X: 3.05 | MS2: 2.50"
+      "odds": "MS1: 2.60 | X: 3.00 | MS2: 2.50"
     },
     {
       "league": "İspanya La Liga",
