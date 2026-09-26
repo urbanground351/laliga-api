@@ -1,22 +1,30 @@
 {
-  "last_updated": "2026-09-26T14:22:20.829948",
+  "last_updated": "2026-09-26T14:33:34.977255",
   "source": "Kambi CDN (La Liga)",
   "matches": [
-    {
-      "league": "İspanya La Liga",
-      "home": "Juventud de Torremolinos CF",
-      "away": "Algeciras CF",
-      "time": "17:30",
-      "date": "26.09.2026",
-      "odds": "MS1: 2.80 | X: 2.95 | MS2: 2.33"
-    },
     {
       "league": "İspanya La Liga",
       "home": "CDEF Logrono (W)",
       "away": "FC Barcelona (W)",
       "time": "17:30",
       "date": "26.09.2026",
-      "odds": "MS1: 23.00 | X: 11.50 | MS2: 0.00"
+      "odds": "MS1: 23.00 | X: 11.00 | MS2: 1.04"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Juventud de Torremolinos CF",
+      "away": "Algeciras CF",
+      "time": "17:31",
+      "date": "26.09.2026",
+      "odds": "MS1: 5.60 | X: 3.85 | MS2: 1.48"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Cultural Leonesa",
+      "away": "CD Coria",
+      "time": "17:32",
+      "date": "26.09.2026",
+      "odds": "MS1: 1.73 | X: 3.25 | MS2: 4.30"
     },
     {
       "league": "İspanya La Liga",
