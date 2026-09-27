@@ -1,38 +1,38 @@
 {
-  "last_updated": "2026-09-27T09:55:28.522513",
+  "last_updated": "2026-09-27T10:07:24.812582",
   "source": "Kambi CDN (La Liga)",
   "matches": [
-    {
-      "league": "İspanya La Liga",
-      "home": "Athletic Club Bilbao (W)",
-      "away": "Atlético Madrid (W)",
-      "time": "13:00",
-      "date": "27.09.2026",
-      "odds": "MS1: 3.20 | X: 3.50 | MS2: 1.91"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "Barakaldo",
-      "away": "Real Avilés CF",
-      "time": "13:00",
-      "date": "27.09.2026",
-      "odds": "MS1: 1.72 | X: 3.45 | MS2: 4.00"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "Valencia (W)",
-      "away": "UD Granadilla Tenerife (W)",
-      "time": "13:00",
-      "date": "27.09.2026",
-      "odds": "MS1: 3.90 | X: 3.35 | MS2: 1.75"
-    },
     {
       "league": "İspanya La Liga",
       "home": "CP Cacereno (W)",
       "away": "UD Tacuense (W)",
       "time": "13:00",
       "date": "27.09.2026",
-      "odds": "MS1: 2.18 | X: 3.00 | MS2: 2.95"
+      "odds": "MS1: 2.23 | X: 2.95 | MS2: 2.90"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Athletic Club Bilbao (W)",
+      "away": "Atlético Madrid (W)",
+      "time": "13:01",
+      "date": "27.09.2026",
+      "odds": "MS1: 0.00 | X: 0.00 | MS2: 0.00"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Barakaldo",
+      "away": "Real Avilés CF",
+      "time": "13:01",
+      "date": "27.09.2026",
+      "odds": "MS1: 1.72 | X: 3.35 | MS2: 4.25"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Valencia (W)",
+      "away": "UD Granadilla Tenerife (W)",
+      "time": "13:02",
+      "date": "27.09.2026",
+      "odds": "MS1: 4.00 | X: 3.35 | MS2: 1.76"
     },
     {
       "league": "İspanya La Liga",
