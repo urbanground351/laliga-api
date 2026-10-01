@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-01T19:04:40.327553",
+  "last_updated": "2026-10-01T23:07:07.129141",
   "source": "Kambi CDN (La Liga)",
   "matches": [
     {
@@ -180,6 +180,14 @@
     },
     {
       "league": "İspanya La Liga",
+      "home": "Real Zaragoza",
+      "away": "Teruel",
+      "time": "22:00",
+      "date": "04.10.2026",
+      "odds": "MS1: 1.46 | X: 3.70 | MS2: 6.25"
+    },
+    {
+      "league": "İspanya La Liga",
       "home": "Málaga",
       "away": "Espanyol",
       "time": "22:00",
@@ -296,7 +304,7 @@
       "away": "Athletic Bilbao",
       "time": "22:00",
       "date": "17.10.2026",
-      "odds": "MS1: 3.60 | X: 3.45 | MS2: 2.12"
+      "odds": "MS1: 3.55 | X: 3.50 | MS2: 2.12"
     },
     {
       "league": "İspanya La Liga",
