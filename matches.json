@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-10-02T19:43:47.478798",
+  "last_updated": "2026-10-02T23:16:32.602699",
   "source": "Kambi CDN (La Liga)",
   "matches": [
-    {
-      "league": "İspanya La Liga",
-      "home": "Real Madrid Castilla",
-      "away": "Atlético Madrid B",
-      "time": "22:15",
-      "date": "02.10.2026",
-      "odds": "MS1: 1.30 | X: 4.40 | MS2: 8.50"
-    },
     {
       "league": "İspanya La Liga",
       "home": "Sevilla (W)",
@@ -80,7 +72,23 @@
       "away": "Juventud de Torremolinos CF",
       "time": "19:45",
       "date": "03.10.2026",
-      "odds": "MS1: 1.48 | X: 3.80 | MS2: 5.50"
+      "odds": "MS1: 1.43 | X: 3.95 | MS2: 6.10"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "FC Cartagena",
+      "away": "Águilas FC",
+      "time": "19:45",
+      "date": "03.10.2026",
+      "odds": "MS1: 1.94 | X: 2.95 | MS2: 3.80"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "UE Sant Andreu",
+      "away": "Antequera CF",
+      "time": "19:45",
+      "date": "03.10.2026",
+      "odds": "MS1: 2.10 | X: 3.05 | MS2: 3.15"
     },
     {
       "league": "İspanya La Liga",
@@ -328,7 +336,7 @@
       "away": "Sevilla",
       "time": "22:00",
       "date": "18.10.2026",
-      "odds": "MS1: 1.24 | X: 6.25 | MS2: 11.00"
+      "odds": "MS1: 1.26 | X: 6.50 | MS2: 11.00"
     },
     {
       "league": "İspanya La Liga",
