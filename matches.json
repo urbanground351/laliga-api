@@ -1,38 +1,14 @@
 {
-  "last_updated": "2026-10-03T07:59:14.320319",
+  "last_updated": "2026-10-03T13:12:28.505547",
   "source": "Kambi CDN (La Liga)",
   "matches": [
-    {
-      "league": "İspanya La Liga",
-      "home": "Sevilla (W)",
-      "away": "FC Levante Las Planas (W)",
-      "time": "13:00",
-      "date": "03.10.2026",
-      "odds": "MS1: 2.85 | X: 3.10 | MS2: 2.23"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "Espanyol (W)",
-      "away": "Deportivo Alaves (W)",
-      "time": "13:00",
-      "date": "03.10.2026",
-      "odds": "MS1: 2.65 | X: 3.00 | MS2: 2.40"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "Hércules CF",
-      "away": "Real Jaén CF",
-      "time": "14:00",
-      "date": "03.10.2026",
-      "odds": "MS1: 1.68 | X: 3.30 | MS2: 4.50"
-    },
     {
       "league": "İspanya La Liga",
       "home": "RC Deportivo de la Coruna (W)",
       "away": "Atlético Madrid (W)",
       "time": "17:00",
       "date": "03.10.2026",
-      "odds": "MS1: 4.80 | X: 3.80 | MS2: 1.54"
+      "odds": "MS1: 4.80 | X: 3.80 | MS2: 1.53"
     },
     {
       "league": "İspanya La Liga",
@@ -72,7 +48,7 @@
       "away": "Cultural Leonesa",
       "time": "19:45",
       "date": "03.10.2026",
-      "odds": "MS1: 2.70 | X: 2.95 | MS2: 2.43"
+      "odds": "MS1: 3.15 | X: 2.95 | MS2: 2.14"
     },
     {
       "league": "İspanya La Liga",
@@ -96,7 +72,7 @@
       "away": "Antequera CF",
       "time": "19:45",
       "date": "03.10.2026",
-      "odds": "MS1: 2.10 | X: 3.05 | MS2: 3.15"
+      "odds": "MS1: 1.97 | X: 3.15 | MS2: 3.40"
     },
     {
       "league": "İspanya La Liga",
@@ -104,7 +80,7 @@
       "away": "CDEF Logrono (W)",
       "time": "13:00",
       "date": "04.10.2026",
-      "odds": "MS1: 2.00 | X: 3.30 | MS2: 3.10"
+      "odds": "MS1: 2.04 | X: 3.20 | MS2: 3.10"
     },
     {
       "league": "İspanya La Liga",
@@ -136,7 +112,7 @@
       "away": "Gimnàstic de Tarragona",
       "time": "13:00",
       "date": "04.10.2026",
-      "odds": "MS1: 1.84 | X: 3.20 | MS2: 3.85"
+      "odds": "MS1: 1.82 | X: 3.25 | MS2: 3.85"
     },
     {
       "league": "İspanya La Liga",
