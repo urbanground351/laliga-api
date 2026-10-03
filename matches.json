@@ -1,62 +1,14 @@
 {
-  "last_updated": "2026-10-03T13:12:28.505547",
+  "last_updated": "2026-10-03T17:17:28.038643",
   "source": "Kambi CDN (La Liga)",
   "matches": [
-    {
-      "league": "İspanya La Liga",
-      "home": "RC Deportivo de la Coruna (W)",
-      "away": "Atlético Madrid (W)",
-      "time": "17:00",
-      "date": "03.10.2026",
-      "odds": "MS1: 4.80 | X: 3.80 | MS2: 1.53"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "Barakaldo",
-      "away": "Arenas Club de Getxo",
-      "time": "17:30",
-      "date": "03.10.2026",
-      "odds": "MS1: 1.56 | X: 3.75 | MS2: 4.80"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "Real Unión",
-      "away": "UD Ourense",
-      "time": "17:30",
-      "date": "03.10.2026",
-      "odds": "MS1: 1.30 | X: 4.80 | MS2: 7.00"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "Racing Club Ferrol",
-      "away": "Pontevedra",
-      "time": "17:30",
-      "date": "03.10.2026",
-      "odds": "MS1: 2.02 | X: 3.00 | MS2: 3.40"
-    },
     {
       "league": "İspanya La Liga",
       "home": "Madrid CFF (W)",
       "away": "Athletic Club Bilbao (W)",
       "time": "19:00",
       "date": "03.10.2026",
-      "odds": "MS1: 2.75 | X: 3.20 | MS2: 2.23"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "Unionistas de Salamanca CF",
-      "away": "Cultural Leonesa",
-      "time": "19:45",
-      "date": "03.10.2026",
-      "odds": "MS1: 3.15 | X: 2.95 | MS2: 2.14"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "Alcorcón",
-      "away": "Juventud de Torremolinos CF",
-      "time": "19:45",
-      "date": "03.10.2026",
-      "odds": "MS1: 1.37 | X: 4.20 | MS2: 6.75"
+      "odds": "MS1: 4.00 | X: 2.16 | MS2: 2.48"
     },
     {
       "league": "İspanya La Liga",
@@ -64,15 +16,23 @@
       "away": "Águilas FC",
       "time": "19:45",
       "date": "03.10.2026",
-      "odds": "MS1: 1.94 | X: 2.95 | MS2: 3.80"
+      "odds": "MS1: 1.05 | X: 10.50 | MS2: 29.00"
     },
     {
       "league": "İspanya La Liga",
-      "home": "UE Sant Andreu",
-      "away": "Antequera CF",
-      "time": "19:45",
+      "home": "Unionistas de Salamanca CF",
+      "away": "Cultural Leonesa",
+      "time": "19:46",
       "date": "03.10.2026",
-      "odds": "MS1: 1.97 | X: 3.15 | MS2: 3.40"
+      "odds": "MS1: 3.10 | X: 2.55 | MS2: 2.45"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Alcorcón",
+      "away": "Juventud de Torremolinos CF",
+      "time": "19:46",
+      "date": "03.10.2026",
+      "odds": "MS1: 1.07 | X: 8.50 | MS2: 21.00"
     },
     {
       "league": "İspanya La Liga",
@@ -168,7 +128,7 @@
       "away": "Real Sociedad (W)",
       "time": "20:30",
       "date": "04.10.2026",
-      "odds": "MS1: 5.80 | X: 3.70 | MS2: 1.47"
+      "odds": "MS1: 3.70 | X: 3.35 | MS2: 1.78"
     },
     {
       "league": "İspanya La Liga",
@@ -176,7 +136,7 @@
       "away": "Teruel",
       "time": "22:00",
       "date": "04.10.2026",
-      "odds": "MS1: 1.46 | X: 3.70 | MS2: 6.25"
+      "odds": "MS1: 1.40 | X: 3.95 | MS2: 6.75"
     },
     {
       "league": "İspanya La Liga",
@@ -328,7 +288,7 @@
       "away": "Rayo Vallecano",
       "time": "22:00",
       "date": "19.10.2026",
-      "odds": "MS1: 2.55 | X: 3.15 | MS2: 2.88"
+      "odds": "MS1: 2.65 | X: 3.20 | MS2: 2.85"
     }
   ]
 }
