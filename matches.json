@@ -1,39 +1,7 @@
 {
-  "last_updated": "2026-10-03T17:17:28.038643",
+  "last_updated": "2026-10-03T19:59:07.300374",
   "source": "Kambi CDN (La Liga)",
   "matches": [
-    {
-      "league": "İspanya La Liga",
-      "home": "Madrid CFF (W)",
-      "away": "Athletic Club Bilbao (W)",
-      "time": "19:00",
-      "date": "03.10.2026",
-      "odds": "MS1: 4.00 | X: 2.16 | MS2: 2.48"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "FC Cartagena",
-      "away": "Águilas FC",
-      "time": "19:45",
-      "date": "03.10.2026",
-      "odds": "MS1: 1.05 | X: 10.50 | MS2: 29.00"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "Unionistas de Salamanca CF",
-      "away": "Cultural Leonesa",
-      "time": "19:46",
-      "date": "03.10.2026",
-      "odds": "MS1: 3.10 | X: 2.55 | MS2: 2.45"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "Alcorcón",
-      "away": "Juventud de Torremolinos CF",
-      "time": "19:46",
-      "date": "03.10.2026",
-      "odds": "MS1: 1.07 | X: 8.50 | MS2: 21.00"
-    },
     {
       "league": "İspanya La Liga",
       "home": "UD Granadilla Tenerife (W)",
@@ -288,7 +256,7 @@
       "away": "Rayo Vallecano",
       "time": "22:00",
       "date": "19.10.2026",
-      "odds": "MS1: 2.65 | X: 3.20 | MS2: 2.85"
+      "odds": "MS1: 2.63 | X: 3.10 | MS2: 2.85"
     }
   ]
 }
