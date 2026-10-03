@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-02T23:16:32.602699",
+  "last_updated": "2026-10-03T02:03:48.668185",
   "source": "Kambi CDN (La Liga)",
   "matches": [
     {
@@ -17,6 +17,14 @@
       "time": "13:00",
       "date": "03.10.2026",
       "odds": "MS1: 2.65 | X: 3.00 | MS2: 2.40"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Hércules CF",
+      "away": "Real Jaén CF",
+      "time": "14:00",
+      "date": "03.10.2026",
+      "odds": "MS1: 1.68 | X: 3.30 | MS2: 4.50"
     },
     {
       "league": "İspanya La Liga",
@@ -344,7 +352,7 @@
       "away": "Rayo Vallecano",
       "time": "22:00",
       "date": "19.10.2026",
-      "odds": "MS1: 2.60 | X: 3.15 | MS2: 2.95"
+      "odds": "MS1: 2.55 | X: 3.15 | MS2: 2.88"
     }
   ]
 }
