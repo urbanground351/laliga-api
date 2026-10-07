@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-10-07T16:24:25.779384",
+  "last_updated": "2026-10-07T21:25:37.368552",
   "source": "Kambi CDN (La Liga)",
   "matches": [
-    {
-      "league": "İspanya La Liga",
-      "home": "FC Cartagena",
-      "away": "Real Murcia",
-      "time": "21:30",
-      "date": "07.10.2026",
-      "odds": "MS1: 2.12 | X: 3.05 | MS2: 3.10"
-    },
     {
       "league": "İspanya La Liga",
       "home": "Málaga",
@@ -40,7 +32,7 @@
       "away": "Atlético Madrid",
       "time": "17:15",
       "date": "10.10.2026",
-      "odds": "MS1: 4.25 | X: 3.70 | MS2: 1.81"
+      "odds": "MS1: 4.20 | X: 3.65 | MS2: 1.83"
     },
     {
       "league": "İspanya La Liga",
@@ -48,7 +40,7 @@
       "away": "Huesca",
       "time": "17:30",
       "date": "10.10.2026",
-      "odds": "MS1: 2.70 | X: 2.88 | MS2: 2.48"
+      "odds": "MS1: 2.90 | X: 2.88 | MS2: 2.32"
     },
     {
       "league": "İspanya La Liga",
@@ -68,6 +60,14 @@
     },
     {
       "league": "İspanya La Liga",
+      "home": "Teruel",
+      "away": "Alcorcón",
+      "time": "19:30",
+      "date": "10.10.2026",
+      "odds": "MS1: 4.00 | X: 3.05 | MS2: 1.86"
+    },
+    {
+      "league": "İspanya La Liga",
       "home": "FC Barcelona",
       "away": "Getafe",
       "time": "19:30",
@@ -76,11 +76,27 @@
     },
     {
       "league": "İspanya La Liga",
+      "home": "Cacereño",
+      "away": "Unionistas de Salamanca CF",
+      "time": "19:45",
+      "date": "10.10.2026",
+      "odds": "MS1: 1.86 | X: 3.25 | MS2: 3.75"
+    },
+    {
+      "league": "İspanya La Liga",
       "home": "Real Madrid",
       "away": "Villarreal",
       "time": "22:00",
       "date": "10.10.2026",
-      "odds": "MS1: 1.30 | X: 6.10 | MS2: 8.50"
+      "odds": "MS1: 1.29 | X: 6.00 | MS2: 8.50"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Mirandés",
+      "away": "Zamora CF",
+      "time": "22:00",
+      "date": "10.10.2026",
+      "odds": "MS1: 1.90 | X: 3.20 | MS2: 3.60"
     },
     {
       "league": "İspanya La Liga",
@@ -96,7 +112,7 @@
       "away": "Deportivo A Coruña",
       "time": "17:15",
       "date": "11.10.2026",
-      "odds": "MS1: 1.65 | X: 4.00 | MS2: 5.00"
+      "odds": "MS1: 1.62 | X: 4.10 | MS2: 5.20"
     },
     {
       "league": "İspanya La Liga",
@@ -120,7 +136,7 @@
       "away": "Sevilla",
       "time": "22:00",
       "date": "12.10.2026",
-      "odds": "MS1: 2.63 | X: 3.25 | MS2: 2.70"
+      "odds": "MS1: 2.60 | X: 3.25 | MS2: 2.75"
     },
     {
       "league": "İspanya La Liga",
@@ -192,7 +208,7 @@
       "away": "Sevilla",
       "time": "22:00",
       "date": "18.10.2026",
-      "odds": "MS1: 1.25 | X: 6.10 | MS2: 11.00"
+      "odds": "MS1: 1.27 | X: 6.40 | MS2: 10.50"
     },
     {
       "league": "İspanya La Liga",
