@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-09T00:20:37.972956",
+  "last_updated": "2026-10-09T06:21:17.629925",
   "source": "Kambi CDN (La Liga)",
   "matches": [
     {
@@ -8,7 +8,7 @@
       "away": "Espanyol",
       "time": "22:00",
       "date": "09.10.2026",
-      "odds": "MS1: 2.65 | X: 3.15 | MS2: 2.75"
+      "odds": "MS1: 2.80 | X: 3.15 | MS2: 2.63"
     },
     {
       "league": "İspanya La Liga",
@@ -36,6 +36,14 @@
     },
     {
       "league": "İspanya La Liga",
+      "home": "RC Deportivo Fabril",
+      "away": "Racing Club Ferrol",
+      "time": "17:30",
+      "date": "10.10.2026",
+      "odds": "MS1: 2.65 | X: 3.00 | MS2: 2.45"
+    },
+    {
+      "league": "İspanya La Liga",
       "home": "Águilas FC",
       "away": "Huesca",
       "time": "17:30",
@@ -52,11 +60,11 @@
     },
     {
       "league": "İspanya La Liga",
-      "home": "RC Deportivo Fabril",
-      "away": "Racing Club Ferrol",
-      "time": "17:30",
+      "home": "FC Barcelona",
+      "away": "Getafe",
+      "time": "19:30",
       "date": "10.10.2026",
-      "odds": "MS1: 2.65 | X: 3.00 | MS2: 2.45"
+      "odds": "MS1: 1.07 | X: 13.00 | MS2: 26.00"
     },
     {
       "league": "İspanya La Liga",
@@ -65,14 +73,6 @@
       "time": "19:30",
       "date": "10.10.2026",
       "odds": "MS1: 4.00 | X: 3.05 | MS2: 1.86"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "FC Barcelona",
-      "away": "Getafe",
-      "time": "19:30",
-      "date": "10.10.2026",
-      "odds": "MS1: 1.07 | X: 13.00 | MS2: 26.00"
     },
     {
       "league": "İspanya La Liga",
@@ -156,19 +156,19 @@
     },
     {
       "league": "İspanya La Liga",
-      "home": "Atlético Madrid B",
-      "away": "Real Zaragoza",
-      "time": "22:00",
-      "date": "11.10.2026",
-      "odds": "MS1: 2.70 | X: 3.15 | MS2: 2.30"
-    },
-    {
-      "league": "İspanya La Liga",
       "home": "Racing Santander",
       "away": "Valencia",
       "time": "22:00",
       "date": "11.10.2026",
       "odds": "MS1: 2.28 | X: 3.50 | MS2: 3.00"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Atlético Madrid B",
+      "away": "Real Zaragoza",
+      "time": "22:00",
+      "date": "11.10.2026",
+      "odds": "MS1: 2.70 | X: 3.15 | MS2: 2.30"
     },
     {
       "league": "İspanya La Liga",
