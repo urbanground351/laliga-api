@@ -1,22 +1,14 @@
 {
-  "last_updated": "2026-10-11T06:33:30.535009",
+  "last_updated": "2026-10-11T13:26:15.294166",
   "source": "Kambi CDN (La Liga)",
   "matches": [
     {
       "league": "İspanya La Liga",
-      "home": "Athletic Club Bilbao II",
-      "away": "Real Unión",
-      "time": "13:00",
-      "date": "11.10.2026",
-      "odds": "MS1: 1.98 | X: 3.30 | MS2: 3.15"
-    },
-    {
-      "league": "İspanya La Liga",
       "home": "Elche",
       "away": "Celta Vigo",
-      "time": "15:00",
+      "time": "15:02",
       "date": "11.10.2026",
-      "odds": "MS1: 2.90 | X: 3.25 | MS2: 2.48"
+      "odds": "MS1: 3.90 | X: 1.77 | MS2: 3.95"
     },
     {
       "league": "İspanya La Liga",
@@ -24,7 +16,7 @@
       "away": "Deportivo A Coruña",
       "time": "17:15",
       "date": "11.10.2026",
-      "odds": "MS1: 1.58 | X: 4.20 | MS2: 5.50"
+      "odds": "MS1: 1.70 | X: 3.75 | MS2: 5.00"
     },
     {
       "league": "İspanya La Liga",
@@ -40,7 +32,7 @@
       "away": "Merida AD",
       "time": "17:30",
       "date": "11.10.2026",
-      "odds": "MS1: 1.88 | X: 3.15 | MS2: 3.75"
+      "odds": "MS1: 1.98 | X: 3.10 | MS2: 3.45"
     },
     {
       "league": "İspanya La Liga",
@@ -56,7 +48,7 @@
       "away": "Osasuna",
       "time": "19:30",
       "date": "11.10.2026",
-      "odds": "MS1: 1.50 | X: 4.35 | MS2: 6.25"
+      "odds": "MS1: 1.45 | X: 4.50 | MS2: 6.75"
     },
     {
       "league": "İspanya La Liga",
@@ -68,14 +60,6 @@
     },
     {
       "league": "İspanya La Liga",
-      "home": "Racing Santander",
-      "away": "Valencia",
-      "time": "22:00",
-      "date": "11.10.2026",
-      "odds": "MS1: 2.25 | X: 3.45 | MS2: 3.05"
-    },
-    {
-      "league": "İspanya La Liga",
       "home": "Atlético Madrid B",
       "away": "Real Zaragoza",
       "time": "22:00",
@@ -84,11 +68,19 @@
     },
     {
       "league": "İspanya La Liga",
+      "home": "Racing Santander",
+      "away": "Valencia",
+      "time": "22:00",
+      "date": "11.10.2026",
+      "odds": "MS1: 2.20 | X: 3.45 | MS2: 3.15"
+    },
+    {
+      "league": "İspanya La Liga",
       "home": "Cultural Leonesa",
       "away": "Arenas Club de Getxo",
       "time": "17:00",
       "date": "12.10.2026",
-      "odds": "MS1: 1.55 | X: 3.60 | MS2: 5.20"
+      "odds": "MS1: 1.41 | X: 4.10 | MS2: 6.10"
     },
     {
       "league": "İspanya La Liga",
@@ -96,7 +88,7 @@
       "away": "UE Sant Andreu",
       "time": "19:15",
       "date": "12.10.2026",
-      "odds": "MS1: 1.91 | X: 3.15 | MS2: 3.65"
+      "odds": "MS1: 1.70 | X: 3.40 | MS2: 4.20"
     },
     {
       "league": "İspanya La Liga",
@@ -128,7 +120,7 @@
       "away": "Elche",
       "time": "17:15",
       "date": "17.10.2026",
-      "odds": "MS1: 1.45 | X: 4.90 | MS2: 6.25"
+      "odds": "MS1: 1.44 | X: 4.80 | MS2: 6.40"
     },
     {
       "league": "İspanya La Liga",
@@ -160,7 +152,7 @@
       "away": "Alaves",
       "time": "17:15",
       "date": "18.10.2026",
-      "odds": "MS1: 2.00 | X: 3.40 | MS2: 3.80"
+      "odds": "MS1: 2.02 | X: 3.40 | MS2: 3.80"
     },
     {
       "league": "İspanya La Liga",
@@ -176,7 +168,7 @@
       "away": "Sevilla",
       "time": "22:00",
       "date": "18.10.2026",
-      "odds": "MS1: 1.23 | X: 6.75 | MS2: 11.00"
+      "odds": "MS1: 1.23 | X: 7.00 | MS2: 12.00"
     },
     {
       "league": "İspanya La Liga",
