@@ -1,23 +1,7 @@
 {
-  "last_updated": "2026-10-12T16:53:47.110965",
+  "last_updated": "2026-10-12T23:22:29.706730",
   "source": "Kambi CDN (La Liga)",
   "matches": [
-    {
-      "league": "İspanya La Liga",
-      "home": "Hércules CF",
-      "away": "UE Sant Andreu",
-      "time": "19:17",
-      "date": "12.10.2026",
-      "odds": "MS1: 1.20 | X: 5.10 | MS2: 12.00"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "Levante",
-      "away": "Sevilla",
-      "time": "22:00",
-      "date": "12.10.2026",
-      "odds": "MS1: 2.65 | X: 3.20 | MS2: 2.70"
-    },
     {
       "league": "İspanya La Liga",
       "home": "Deportivo A Coruña",
@@ -57,6 +41,14 @@
       "time": "19:30",
       "date": "17.10.2026",
       "odds": "MS1: 6.00 | X: 5.50 | MS2: 1.41"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Real Madrid (W)",
+      "away": "Espanyol (W)",
+      "time": "21:30",
+      "date": "17.10.2026",
+      "odds": "MS1: 1.17 | X: 5.60 | MS2: 11.00"
     },
     {
       "league": "İspanya La Liga",
