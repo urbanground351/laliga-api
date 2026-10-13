@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-13T18:12:36.465608",
+  "last_updated": "2026-10-13T22:45:38.561582",
   "source": "Kambi CDN (La Liga)",
   "matches": [
     {
@@ -17,6 +17,14 @@
       "time": "22:00",
       "date": "16.10.2026",
       "odds": "MS1: 2.07 | X: 3.45 | MS2: 3.50"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Alcorcón",
+      "away": "Huesca",
+      "time": "22:15",
+      "date": "16.10.2026",
+      "odds": "MS1: 1.94 | X: 3.20 | MS2: 3.45"
     },
     {
       "league": "İspanya La Liga",
@@ -128,7 +136,7 @@
       "away": "Sevilla",
       "time": "22:00",
       "date": "18.10.2026",
-      "odds": "MS1: 1.24 | X: 6.40 | MS2: 11.00"
+      "odds": "MS1: 1.25 | X: 6.40 | MS2: 10.50"
     },
     {
       "league": "İspanya La Liga",
@@ -216,7 +224,7 @@
       "away": "Real Madrid",
       "time": "23:00",
       "date": "25.10.2026",
-      "odds": "MS1: 1.55 | X: 4.80 | MS2: 5.00"
+      "odds": "MS1: 1.57 | X: 4.90 | MS2: 5.00"
     },
     {
       "league": "İspanya La Liga",
