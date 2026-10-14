@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-14T17:13:05.893188",
+  "last_updated": "2026-10-14T20:42:26.568709",
   "source": "Kambi CDN (La Liga)",
   "matches": [
     {
@@ -24,7 +24,7 @@
       "away": "Huesca",
       "time": "22:15",
       "date": "16.10.2026",
-      "odds": "MS1: 1.94 | X: 3.20 | MS2: 3.45"
+      "odds": "MS1: 1.83 | X: 3.25 | MS2: 3.75"
     },
     {
       "league": "İspanya La Liga",
@@ -76,11 +76,51 @@
     },
     {
       "league": "İspanya La Liga",
+      "home": "Águilas FC",
+      "away": "UD Ibiza",
+      "time": "19:45",
+      "date": "17.10.2026",
+      "odds": "MS1: 2.65 | X: 3.00 | MS2: 2.43"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "CD Extremadura",
+      "away": "Real Unión",
+      "time": "19:45",
+      "date": "17.10.2026",
+      "odds": "MS1: 2.12 | X: 3.10 | MS2: 3.05"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Zamora CF",
+      "away": "Ponferradina",
+      "time": "19:45",
+      "date": "17.10.2026",
+      "odds": "MS1: 1.86 | X: 3.15 | MS2: 3.85"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Villarreal CF B",
+      "away": "Teruel",
+      "time": "21:30",
+      "date": "17.10.2026",
+      "odds": "MS1: 1.46 | X: 3.75 | MS2: 6.00"
+    },
+    {
+      "league": "İspanya La Liga",
       "home": "Real Madrid (W)",
       "away": "Espanyol (W)",
       "time": "21:30",
       "date": "17.10.2026",
       "odds": "MS1: 1.17 | X: 5.60 | MS2: 11.00"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Algeciras CF",
+      "away": "Hércules CF",
+      "time": "22:00",
+      "date": "17.10.2026",
+      "odds": "MS1: 2.23 | X: 3.00 | MS2: 3.00"
     },
     {
       "league": "İspanya La Liga",
