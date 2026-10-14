@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-14T12:13:40.559482",
+  "last_updated": "2026-10-14T17:13:05.893188",
   "source": "Kambi CDN (La Liga)",
   "matches": [
     {
@@ -57,6 +57,14 @@
       "time": "17:15",
       "date": "17.10.2026",
       "odds": "MS1: 1.46 | X: 4.80 | MS2: 6.25"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Barakaldo",
+      "away": "Mirandés",
+      "time": "17:30",
+      "date": "17.10.2026",
+      "odds": "MS1: 2.70 | X: 3.05 | MS2: 2.38"
     },
     {
       "league": "İspanya La Liga",
@@ -152,7 +160,7 @@
       "away": "Rayo Vallecano",
       "time": "22:00",
       "date": "19.10.2026",
-      "odds": "MS1: 2.80 | X: 3.00 | MS2: 2.70"
+      "odds": "MS1: 2.80 | X: 3.05 | MS2: 2.70"
     },
     {
       "league": "İspanya La Liga",
@@ -192,7 +200,7 @@
       "away": "Villarreal",
       "time": "19:30",
       "date": "24.10.2026",
-      "odds": "MS1: 3.60 | X: 3.75 | MS2: 2.02"
+      "odds": "MS1: 3.40 | X: 3.65 | MS2: 2.05"
     },
     {
       "league": "İspanya La Liga",
@@ -208,7 +216,7 @@
       "away": "Getafe",
       "time": "16:00",
       "date": "25.10.2026",
-      "odds": "MS1: 1.62 | X: 3.65 | MS2: 6.00"
+      "odds": "MS1: 1.61 | X: 3.65 | MS2: 6.25"
     },
     {
       "league": "İspanya La Liga",
