@@ -1,54 +1,22 @@
 {
-  "last_updated": "2026-10-17T16:40:21.267480",
+  "last_updated": "2026-10-17T18:50:08.862204",
   "source": "Kambi CDN (La Liga)",
   "matches": [
-    {
-      "league": "İspanya La Liga",
-      "home": "Real Betis",
-      "away": "FC Barcelona",
-      "time": "19:31",
-      "date": "17.10.2026",
-      "odds": "MS1: 6.25 | X: 5.30 | MS2: 1.38"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "Águilas FC",
-      "away": "UD Ibiza",
-      "time": "19:45",
-      "date": "17.10.2026",
-      "odds": "MS1: 2.65 | X: 3.00 | MS2: 2.45"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "CD Extremadura",
-      "away": "Real Unión",
-      "time": "19:45",
-      "date": "17.10.2026",
-      "odds": "MS1: 2.12 | X: 3.10 | MS2: 3.05"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "Zamora CF",
-      "away": "Ponferradina",
-      "time": "19:45",
-      "date": "17.10.2026",
-      "odds": "MS1: 1.95 | X: 3.10 | MS2: 3.55"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "Real Madrid (W)",
-      "away": "Espanyol (W)",
-      "time": "21:30",
-      "date": "17.10.2026",
-      "odds": "MS1: 1.17 | X: 5.60 | MS2: 11.00"
-    },
     {
       "league": "İspanya La Liga",
       "home": "Villarreal CF B",
       "away": "Teruel",
       "time": "21:30",
       "date": "17.10.2026",
-      "odds": "MS1: 1.36 | X: 4.20 | MS2: 7.50"
+      "odds": "MS1: 1.47 | X: 3.50 | MS2: 6.75"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Real Madrid (W)",
+      "away": "Espanyol (W)",
+      "time": "21:32",
+      "date": "17.10.2026",
+      "odds": "MS1: 1.24 | X: 4.90 | MS2: 10.00"
     },
     {
       "league": "İspanya La Liga",
@@ -56,7 +24,7 @@
       "away": "Athletic Bilbao",
       "time": "22:00",
       "date": "17.10.2026",
-      "odds": "MS1: 3.30 | X: 3.35 | MS2: 2.20"
+      "odds": "MS1: 3.20 | X: 3.30 | MS2: 2.25"
     },
     {
       "league": "İspanya La Liga",
@@ -64,7 +32,7 @@
       "away": "Hércules CF",
       "time": "22:00",
       "date": "17.10.2026",
-      "odds": "MS1: 2.55 | X: 2.95 | MS2: 2.55"
+      "odds": "MS1: 2.55 | X: 2.95 | MS2: 2.60"
     },
     {
       "league": "İspanya La Liga",
@@ -112,7 +80,7 @@
       "away": "Racing Santander",
       "time": "15:00",
       "date": "18.10.2026",
-      "odds": "MS1: 1.97 | X: 3.55 | MS2: 3.75"
+      "odds": "MS1: 2.02 | X: 3.55 | MS2: 3.65"
     },
     {
       "league": "İspanya La Liga",
