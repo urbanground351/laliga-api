@@ -1,38 +1,14 @@
 {
-  "last_updated": "2026-10-17T18:50:08.862204",
+  "last_updated": "2026-10-17T21:03:20.128545",
   "source": "Kambi CDN (La Liga)",
   "matches": [
     {
       "league": "İspanya La Liga",
-      "home": "Villarreal CF B",
-      "away": "Teruel",
-      "time": "21:30",
-      "date": "17.10.2026",
-      "odds": "MS1: 1.47 | X: 3.50 | MS2: 6.75"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "Real Madrid (W)",
-      "away": "Espanyol (W)",
-      "time": "21:32",
-      "date": "17.10.2026",
-      "odds": "MS1: 1.24 | X: 4.90 | MS2: 10.00"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "Valencia",
-      "away": "Athletic Bilbao",
-      "time": "22:00",
-      "date": "17.10.2026",
-      "odds": "MS1: 3.20 | X: 3.30 | MS2: 2.25"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "Algeciras CF",
-      "away": "Hércules CF",
-      "time": "22:00",
-      "date": "17.10.2026",
-      "odds": "MS1: 2.55 | X: 2.95 | MS2: 2.60"
+      "home": "Real Madrid Castilla",
+      "away": "Antequera CF",
+      "time": "13:00",
+      "date": "18.10.2026",
+      "odds": "MS1: 1.65 | X: 3.60 | MS2: 4.25"
     },
     {
       "league": "İspanya La Liga",
@@ -68,35 +44,11 @@
     },
     {
       "league": "İspanya La Liga",
-      "home": "Real Madrid Castilla",
-      "away": "Antequera CF",
-      "time": "13:00",
-      "date": "18.10.2026",
-      "odds": "MS1: 1.65 | X: 3.60 | MS2: 4.25"
-    },
-    {
-      "league": "İspanya La Liga",
       "home": "Osasuna",
       "away": "Racing Santander",
       "time": "15:00",
       "date": "18.10.2026",
-      "odds": "MS1: 2.02 | X: 3.55 | MS2: 3.65"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "Pontevedra",
-      "away": "Cacereño",
-      "time": "17:00",
-      "date": "18.10.2026",
-      "odds": "MS1: 2.08 | X: 3.00 | MS2: 3.30"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "Eibar (W)",
-      "away": "RC Deportivo de la Coruna (W)",
-      "time": "17:00",
-      "date": "18.10.2026",
-      "odds": "MS1: 2.65 | X: 2.95 | MS2: 2.48"
+      "odds": "MS1: 2.00 | X: 3.55 | MS2: 3.65"
     },
     {
       "league": "İspanya La Liga",
@@ -113,6 +65,22 @@
       "time": "17:00",
       "date": "18.10.2026",
       "odds": "MS1: 2.14 | X: 3.25 | MS2: 2.90"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Pontevedra",
+      "away": "Cacereño",
+      "time": "17:00",
+      "date": "18.10.2026",
+      "odds": "MS1: 2.08 | X: 3.00 | MS2: 3.30"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Eibar (W)",
+      "away": "RC Deportivo de la Coruna (W)",
+      "time": "17:00",
+      "date": "18.10.2026",
+      "odds": "MS1: 2.65 | X: 2.95 | MS2: 2.48"
     },
     {
       "league": "İspanya La Liga",
@@ -160,7 +128,7 @@
       "away": "Cultural Leonesa",
       "time": "21:30",
       "date": "18.10.2026",
-      "odds": "MS1: 2.30 | X: 2.95 | MS2: 2.88"
+      "odds": "MS1: 2.17 | X: 3.00 | MS2: 3.05"
     },
     {
       "league": "İspanya La Liga",
@@ -168,7 +136,7 @@
       "away": "Sevilla",
       "time": "22:00",
       "date": "18.10.2026",
-      "odds": "MS1: 1.22 | X: 6.75 | MS2: 12.00"
+      "odds": "MS1: 1.21 | X: 6.75 | MS2: 12.50"
     },
     {
       "league": "İspanya La Liga",
