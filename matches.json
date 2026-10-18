@@ -1,23 +1,7 @@
 {
-  "last_updated": "2026-10-18T19:00:01.673507",
+  "last_updated": "2026-10-18T21:22:50.864664",
   "source": "Kambi CDN (La Liga)",
   "matches": [
-    {
-      "league": "İspanya La Liga",
-      "home": "UD Logroñés",
-      "away": "Cultural Leonesa",
-      "time": "21:32",
-      "date": "18.10.2026",
-      "odds": "MS1: 2.06 | X: 2.80 | MS2: 3.65"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "Real Madrid",
-      "away": "Sevilla",
-      "time": "22:00",
-      "date": "18.10.2026",
-      "odds": "MS1: 1.24 | X: 7.00 | MS2: 11.50"
-    },
     {
       "league": "İspanya La Liga",
       "home": "Getafe",
