@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-10-24T06:27:53.968638",
+  "last_updated": "2026-10-24T11:25:56.137396",
   "source": "Kambi CDN (La Liga)",
   "matches": [
-    {
-      "league": "İspanya La Liga",
-      "home": "RC Deportivo Fabril",
-      "away": "CD Extremadura",
-      "time": "14:00",
-      "date": "24.10.2026",
-      "odds": "MS1: 2.55 | X: 3.00 | MS2: 2.55"
-    },
     {
       "league": "İspanya La Liga",
       "home": "Juventud de Torremolinos CF",
       "away": "Real Murcia",
       "time": "14:00",
       "date": "24.10.2026",
-      "odds": "MS1: 3.25 | X: 3.25 | MS2: 1.98"
+      "odds": "MS1: 3.40 | X: 2.90 | MS2: 2.08"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "RC Deportivo Fabril",
+      "away": "CD Extremadura",
+      "time": "14:01",
+      "date": "24.10.2026",
+      "odds": "MS1: 6.40 | X: 3.85 | MS2: 1.43"
     },
     {
       "league": "İspanya La Liga",
@@ -24,7 +24,7 @@
       "away": "Elche",
       "time": "15:00",
       "date": "24.10.2026",
-      "odds": "MS1: 1.74 | X: 3.75 | MS2: 4.70"
+      "odds": "MS1: 1.71 | X: 3.80 | MS2: 4.80"
     },
     {
       "league": "İspanya La Liga",
@@ -56,7 +56,7 @@
       "away": "Espanyol",
       "time": "17:15",
       "date": "24.10.2026",
-      "odds": "MS1: 2.33 | X: 3.60 | MS2: 2.88"
+      "odds": "MS1: 2.32 | X: 3.65 | MS2: 2.85"
     },
     {
       "league": "İspanya La Liga",
@@ -88,7 +88,7 @@
       "away": "Villarreal",
       "time": "19:30",
       "date": "24.10.2026",
-      "odds": "MS1: 3.15 | X: 3.60 | MS2: 2.18"
+      "odds": "MS1: 3.35 | X: 3.60 | MS2: 2.07"
     },
     {
       "league": "İspanya La Liga",
@@ -104,7 +104,7 @@
       "away": "Barakaldo",
       "time": "19:45",
       "date": "24.10.2026",
-      "odds": "MS1: 1.96 | X: 2.95 | MS2: 3.70"
+      "odds": "MS1: 1.98 | X: 2.88 | MS2: 3.70"
     },
     {
       "league": "İspanya La Liga",
@@ -152,7 +152,7 @@
       "away": "Deportivo A Coruña",
       "time": "22:00",
       "date": "24.10.2026",
-      "odds": "MS1: 1.26 | X: 5.80 | MS2: 11.00"
+      "odds": "MS1: 1.25 | X: 6.00 | MS2: 11.50"
     },
     {
       "league": "İspanya La Liga",
@@ -176,7 +176,7 @@
       "away": "Getafe",
       "time": "16:00",
       "date": "25.10.2026",
-      "odds": "MS1: 1.60 | X: 3.80 | MS2: 6.10"
+      "odds": "MS1: 1.60 | X: 3.75 | MS2: 6.10"
     },
     {
       "league": "İspanya La Liga",
@@ -192,7 +192,7 @@
       "away": "Real Betis",
       "time": "18:15",
       "date": "25.10.2026",
-      "odds": "MS1: 3.00 | X: 3.35 | MS2: 2.35"
+      "odds": "MS1: 3.20 | X: 3.40 | MS2: 2.23"
     },
     {
       "league": "İspanya La Liga",
@@ -208,7 +208,7 @@
       "away": "Madrid CFF (W)",
       "time": "19:00",
       "date": "25.10.2026",
-      "odds": "MS1: 3.35 | X: 3.15 | MS2: 1.96"
+      "odds": "MS1: 3.35 | X: 3.10 | MS2: 1.98"
     },
     {
       "league": "İspanya La Liga",
