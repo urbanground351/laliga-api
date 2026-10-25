@@ -1,46 +1,14 @@
 {
-  "last_updated": "2026-10-25T13:45:40.218019",
+  "last_updated": "2026-10-25T17:14:31.309994",
   "source": "Kambi CDN (La Liga)",
   "matches": [
-    {
-      "league": "İspanya La Liga",
-      "home": "RC Deportivo de la Coruna (W)",
-      "away": "Deportivo Alaves (W)",
-      "time": "14:46",
-      "date": "25.10.2026",
-      "odds": "Oran Yok"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "Athletic Bilbao",
-      "away": "Getafe",
-      "time": "16:01",
-      "date": "25.10.2026",
-      "odds": "MS1: 1.02 | X: 19.00 | MS2: 61.00"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "Villarreal CF B",
-      "away": "FC Cartagena",
-      "time": "16:14",
-      "date": "25.10.2026",
-      "odds": "MS1: 2.14 | X: 2.80 | MS2: 3.45"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "Celta Vigo",
-      "away": "Real Betis",
-      "time": "18:15",
-      "date": "25.10.2026",
-      "odds": "MS1: 3.20 | X: 3.40 | MS2: 2.23"
-    },
     {
       "league": "İspanya La Liga",
       "home": "Algeciras CF",
       "away": "Real Madrid Castilla",
       "time": "18:30",
       "date": "25.10.2026",
-      "odds": "MS1: 2.70 | X: 3.10 | MS2: 2.35"
+      "odds": "Oran Yok"
     },
     {
       "league": "İspanya La Liga",
@@ -48,7 +16,7 @@
       "away": "Madrid CFF (W)",
       "time": "19:00",
       "date": "25.10.2026",
-      "odds": "MS1: 2.70 | X: 2.90 | MS2: 2.45"
+      "odds": "MS1: 34.00 | X: 10.50 | MS2: 1.02"
     },
     {
       "league": "İspanya La Liga",
@@ -56,7 +24,7 @@
       "away": "Levante",
       "time": "20:30",
       "date": "25.10.2026",
-      "odds": "MS1: 1.55 | X: 4.35 | MS2: 5.40"
+      "odds": "MS1: 1.53 | X: 4.50 | MS2: 5.60"
     },
     {
       "league": "İspanya La Liga",
@@ -64,7 +32,7 @@
       "away": "CD Coria",
       "time": "20:45",
       "date": "25.10.2026",
-      "odds": "MS1: 1.87 | X: 3.40 | MS2: 3.45"
+      "odds": "MS1: 1.77 | X: 3.50 | MS2: 3.75"
     },
     {
       "league": "İspanya La Liga",
@@ -72,7 +40,7 @@
       "away": "Hércules CF",
       "time": "20:45",
       "date": "25.10.2026",
-      "odds": "MS1: 2.63 | X: 3.00 | MS2: 2.48"
+      "odds": "MS1: 2.60 | X: 3.05 | MS2: 2.48"
     },
     {
       "league": "İspanya La Liga",
@@ -80,7 +48,7 @@
       "away": "Real Madrid",
       "time": "23:00",
       "date": "25.10.2026",
-      "odds": "MS1: 1.57 | X: 5.80 | MS2: 4.00"
+      "odds": "MS1: 1.60 | X: 5.50 | MS2: 4.00"
     },
     {
       "league": "İspanya La Liga",
