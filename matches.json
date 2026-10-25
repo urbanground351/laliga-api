@@ -1,31 +1,7 @@
 {
-  "last_updated": "2026-10-25T19:40:29.591656",
+  "last_updated": "2026-10-25T22:02:57.566195",
   "source": "Kambi CDN (La Liga)",
   "matches": [
-    {
-      "league": "İspanya La Liga",
-      "home": "Merida AD",
-      "away": "CD Coria",
-      "time": "20:46",
-      "date": "25.10.2026",
-      "odds": "MS1: 29.00 | X: 1.01 | MS2: 31.00"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "Gimnàstic de Tarragona",
-      "away": "Hércules CF",
-      "time": "20:46",
-      "date": "25.10.2026",
-      "odds": "Oran Yok"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "FC Barcelona",
-      "away": "Real Madrid",
-      "time": "23:00",
-      "date": "25.10.2026",
-      "odds": "MS1: 1.56 | X: 6.10 | MS2: 4.00"
-    },
     {
       "league": "İspanya La Liga",
       "home": "Sevilla",
