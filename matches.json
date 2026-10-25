@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-25T04:28:14.222315",
+  "last_updated": "2026-10-25T09:18:12.806637",
   "source": "Kambi CDN (La Liga)",
   "matches": [
     {
@@ -24,7 +24,7 @@
       "away": "Deportivo Alaves (W)",
       "time": "14:45",
       "date": "25.10.2026",
-      "odds": "MS1: 2.18 | X: 3.15 | MS2: 2.85"
+      "odds": "MS1: 1.93 | X: 3.20 | MS2: 3.35"
     },
     {
       "league": "İspanya La Liga",
@@ -32,7 +32,7 @@
       "away": "Getafe",
       "time": "16:00",
       "date": "25.10.2026",
-      "odds": "MS1: 1.57 | X: 3.80 | MS2: 6.40"
+      "odds": "MS1: 1.55 | X: 3.85 | MS2: 6.50"
     },
     {
       "league": "İspanya La Liga",
@@ -96,7 +96,7 @@
       "away": "Real Madrid",
       "time": "23:00",
       "date": "25.10.2026",
-      "odds": "MS1: 1.63 | X: 5.75 | MS2: 3.70"
+      "odds": "MS1: 1.65 | X: 5.40 | MS2: 3.75"
     }
   ]
 }
