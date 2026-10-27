@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-10-27T16:04:31.212167",
+  "last_updated": "2026-10-27T20:37:40.622042",
   "source": "Kambi CDN (La Liga)",
   "matches": [
+    {
+      "league": "İspanya La Liga",
+      "home": "UD Ibiza",
+      "away": "CE Europa",
+      "time": "23:00",
+      "date": "30.10.2026",
+      "odds": "MS1: 1.48 | X: 3.95 | MS2: 5.40"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Atlético Madrid B",
+      "away": "Alcorcón",
+      "time": "23:00",
+      "date": "30.10.2026",
+      "odds": "MS1: 2.33 | X: 3.20 | MS2: 2.65"
+    },
     {
       "league": "İspanya La Liga",
       "home": "Villarreal",
@@ -108,11 +124,19 @@
     },
     {
       "league": "İspanya La Liga",
+      "home": "Sevilla (W)",
+      "away": "Real Madrid (W)",
+      "time": "21:00",
+      "date": "01.11.2026",
+      "odds": "MS1: 5.50 | X: 3.95 | MS2: 1.45"
+    },
+    {
+      "league": "İspanya La Liga",
       "home": "Athletic Bilbao",
       "away": "Real Sociedad",
       "time": "23:00",
       "date": "01.11.2026",
-      "odds": "MS1: 2.04 | X: 3.55 | MS2: 3.50"
+      "odds": "MS1: 2.07 | X: 3.55 | MS2: 3.40"
     },
     {
       "league": "İspanya La Liga",
@@ -152,7 +176,7 @@
       "away": "Athletic Bilbao",
       "time": "20:30",
       "date": "07.11.2026",
-      "odds": "MS1: 3.35 | X: 3.35 | MS2: 2.17"
+      "odds": "MS1: 3.35 | X: 3.25 | MS2: 2.23"
     },
     {
       "league": "İspanya La Liga",
