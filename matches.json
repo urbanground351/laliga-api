@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-28T17:11:55.731316",
+  "last_updated": "2026-10-28T21:39:16.717341",
   "source": "Kambi CDN (La Liga)",
   "matches": [
     {
@@ -8,7 +8,7 @@
       "away": "CE Europa",
       "time": "23:00",
       "date": "30.10.2026",
-      "odds": "MS1: 1.48 | X: 3.95 | MS2: 5.40"
+      "odds": "MS1: 1.50 | X: 3.75 | MS2: 5.25"
     },
     {
       "league": "İspanya La Liga",
@@ -16,7 +16,7 @@
       "away": "Alcorcón",
       "time": "23:00",
       "date": "30.10.2026",
-      "odds": "MS1: 2.33 | X: 3.20 | MS2: 2.65"
+      "odds": "MS1: 2.30 | X: 3.30 | MS2: 2.65"
     },
     {
       "league": "İspanya La Liga",
@@ -108,6 +108,30 @@
     },
     {
       "league": "İspanya La Liga",
+      "home": "Real Unión",
+      "away": "Real Avilés CF",
+      "time": "20:45",
+      "date": "31.10.2026",
+      "odds": "MS1: 1.79 | X: 3.40 | MS2: 3.75"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Real Madrid Castilla",
+      "away": "FC Cartagena",
+      "time": "20:45",
+      "date": "31.10.2026",
+      "odds": "MS1: 1.74 | X: 3.40 | MS2: 4.00"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Real Zaragoza",
+      "away": "Villarreal CF B",
+      "time": "23:00",
+      "date": "31.10.2026",
+      "odds": "MS1: 1.66 | X: 3.50 | MS2: 4.35"
+    },
+    {
+      "league": "İspanya La Liga",
       "home": "FC Barcelona",
       "away": "Alaves",
       "time": "23:00",
@@ -169,6 +193,14 @@
       "time": "23:00",
       "date": "01.11.2026",
       "odds": "MS1: 2.07 | X: 3.55 | MS2: 3.40"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "UD Granadilla Tenerife (W)",
+      "away": "Athletic Club Bilbao (W)",
+      "time": "22:00",
+      "date": "02.11.2026",
+      "odds": "MS1: 2.50 | X: 3.15 | MS2: 2.45"
     },
     {
       "league": "İspanya La Liga",
