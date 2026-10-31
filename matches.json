@@ -1,22 +1,14 @@
 {
-  "last_updated": "2026-10-31T19:50:47.845882",
+  "last_updated": "2026-10-31T22:51:57.971355",
   "source": "Kambi CDN (La Liga)",
   "matches": [
     {
       "league": "İspanya La Liga",
-      "home": "Real Zaragoza",
-      "away": "Villarreal CF B",
-      "time": "23:00",
-      "date": "31.10.2026",
-      "odds": "MS1: 1.88 | X: 3.25 | MS2: 3.60"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "FC Barcelona",
-      "away": "Alaves",
-      "time": "23:00",
-      "date": "31.10.2026",
-      "odds": "MS1: 1.09 | X: 11.00 | MS2: 21.00"
+      "home": "FC Levante Las Planas (W)",
+      "away": "FC Barcelona (W)",
+      "time": "14:00",
+      "date": "01.11.2026",
+      "odds": "MS1: 25.00 | X: 11.50 | MS2: 1.01"
     },
     {
       "league": "İspanya La Liga",
@@ -36,19 +28,11 @@
     },
     {
       "league": "İspanya La Liga",
-      "home": "FC Levante Las Planas (W)",
-      "away": "FC Barcelona (W)",
-      "time": "14:30",
-      "date": "01.11.2026",
-      "odds": "MS1: 25.00 | X: 11.50 | MS2: 1.01"
-    },
-    {
-      "league": "İspanya La Liga",
       "home": "Getafe",
       "away": "Sevilla",
       "time": "16:00",
       "date": "01.11.2026",
-      "odds": "MS1: 3.10 | X: 2.95 | MS2: 2.50"
+      "odds": "MS1: 3.15 | X: 3.00 | MS2: 2.45"
     },
     {
       "league": "İspanya La Liga",
@@ -64,15 +48,7 @@
       "away": "Real Madrid",
       "time": "18:15",
       "date": "01.11.2026",
-      "odds": "MS1: 11.00 | X: 7.00 | MS2: 1.22"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "CD Coria",
-      "away": "Arenas Club de Getxo",
-      "time": "18:30",
-      "date": "01.11.2026",
-      "odds": "MS1: 1.82 | X: 3.55 | MS2: 3.50"
+      "odds": "MS1: 12.00 | X: 7.50 | MS2: 1.19"
     },
     {
       "league": "İspanya La Liga",
@@ -81,6 +57,14 @@
       "time": "18:30",
       "date": "01.11.2026",
       "odds": "MS1: 3.85 | X: 3.25 | MS2: 1.81"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "CD Coria",
+      "away": "Arenas Club de Getxo",
+      "time": "18:30",
+      "date": "01.11.2026",
+      "odds": "MS1: 1.82 | X: 3.55 | MS2: 3.50"
     },
     {
       "league": "İspanya La Liga",
