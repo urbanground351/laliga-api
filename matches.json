@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-10-31T22:51:57.971355",
+  "last_updated": "2026-11-01T01:32:17.050101",
   "source": "Kambi CDN (La Liga)",
   "matches": [
-    {
-      "league": "İspanya La Liga",
-      "home": "FC Levante Las Planas (W)",
-      "away": "FC Barcelona (W)",
-      "time": "14:00",
-      "date": "01.11.2026",
-      "odds": "MS1: 25.00 | X: 11.50 | MS2: 1.01"
-    },
     {
       "league": "İspanya La Liga",
       "home": "Barakaldo",
@@ -25,6 +17,14 @@
       "time": "14:00",
       "date": "01.11.2026",
       "odds": "MS1: 4.10 | X: 3.70 | MS2: 1.64"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "FC Levante Las Planas (W)",
+      "away": "FC Barcelona (W)",
+      "time": "14:30",
+      "date": "01.11.2026",
+      "odds": "MS1: 29.00 | X: 12.50 | MS2: 0.00"
     },
     {
       "league": "İspanya La Liga",
@@ -52,19 +52,19 @@
     },
     {
       "league": "İspanya La Liga",
-      "home": "UD Ourense",
-      "away": "Cultural Leonesa",
-      "time": "18:30",
-      "date": "01.11.2026",
-      "odds": "MS1: 3.85 | X: 3.25 | MS2: 1.81"
-    },
-    {
-      "league": "İspanya La Liga",
       "home": "CD Coria",
       "away": "Arenas Club de Getxo",
       "time": "18:30",
       "date": "01.11.2026",
       "odds": "MS1: 1.82 | X: 3.55 | MS2: 3.50"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "UD Ourense",
+      "away": "Cultural Leonesa",
+      "time": "18:30",
+      "date": "01.11.2026",
+      "odds": "MS1: 3.85 | X: 3.25 | MS2: 1.81"
     },
     {
       "league": "İspanya La Liga",
