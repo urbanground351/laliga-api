@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-11-02T09:22:52.274223",
+  "last_updated": "2026-11-02T19:38:09.516286",
   "source": "Kambi CDN (La Liga)",
   "matches": [
     {
       "league": "İspanya La Liga",
-      "home": "UD Granadilla Tenerife (W)",
-      "away": "Athletic Club Bilbao (W)",
-      "time": "22:00",
+      "home": "Huesca",
+      "away": "Gimnàstic de Tarragona",
+      "time": "22:32",
       "date": "02.11.2026",
-      "odds": "MS1: 2.50 | X: 3.15 | MS2: 2.45"
+      "odds": "MS1: 1.67 | X: 3.40 | MS2: 4.40"
     },
     {
       "league": "İspanya La Liga",
-      "home": "Huesca",
-      "away": "Gimnàstic de Tarragona",
-      "time": "22:30",
+      "home": "UD Granadilla Tenerife (W)",
+      "away": "Athletic Club Bilbao (W)",
+      "time": "23:00",
       "date": "02.11.2026",
-      "odds": "MS1: 1.72 | X: 3.40 | MS2: 4.10"
+      "odds": "MS1: 2.55 | X: 3.10 | MS2: 2.45"
     },
     {
       "league": "İspanya La Liga",
@@ -24,7 +24,7 @@
       "away": "Osasuna",
       "time": "23:00",
       "date": "02.11.2026",
-      "odds": "MS1: 2.16 | X: 3.30 | MS2: 3.45"
+      "odds": "MS1: 2.08 | X: 3.15 | MS2: 3.90"
     },
     {
       "league": "İspanya La Liga",
@@ -32,7 +32,15 @@
       "away": "Alaves",
       "time": "23:00",
       "date": "06.11.2026",
-      "odds": "MS1: 1.96 | X: 3.40 | MS2: 4.00"
+      "odds": "MS1: 1.95 | X: 3.40 | MS2: 4.00"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Granada CF (W)",
+      "away": "Espanyol (W)",
+      "time": "14:00",
+      "date": "07.11.2026",
+      "odds": "MS1: 1.98 | X: 3.15 | MS2: 3.35"
     },
     {
       "league": "İspanya La Liga",
@@ -40,7 +48,15 @@
       "away": "Racing Santander",
       "time": "16:00",
       "date": "07.11.2026",
-      "odds": "MS1: 2.38 | X: 3.50 | MS2: 2.85"
+      "odds": "MS1: 2.40 | X: 3.50 | MS2: 2.80"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Athletic Club Bilbao (W)",
+      "away": "Real Madrid (W)",
+      "time": "18:00",
+      "date": "07.11.2026",
+      "odds": "MS1: 3.50 | X: 3.35 | MS2: 1.85"
     },
     {
       "league": "İspanya La Liga",
@@ -48,7 +64,15 @@
       "away": "Deportivo A Coruña",
       "time": "18:15",
       "date": "07.11.2026",
-      "odds": "MS1: 2.15 | X: 3.40 | MS2: 3.40"
+      "odds": "MS1: 2.14 | X: 3.45 | MS2: 3.35"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Eibar (W)",
+      "away": "Real Sociedad (W)",
+      "time": "19:15",
+      "date": "07.11.2026",
+      "odds": "MS1: 3.80 | X: 3.25 | MS2: 1.81"
     },
     {
       "league": "İspanya La Liga",
@@ -56,7 +80,7 @@
       "away": "Athletic Bilbao",
       "time": "20:30",
       "date": "07.11.2026",
-      "odds": "MS1: 3.35 | X: 3.25 | MS2: 2.23"
+      "odds": "MS1: 3.35 | X: 3.35 | MS2: 2.18"
     },
     {
       "league": "İspanya La Liga",
@@ -64,7 +88,7 @@
       "away": "Real Madrid",
       "time": "23:00",
       "date": "07.11.2026",
-      "odds": "MS1: 9.00 | X: 5.75 | MS2: 1.30"
+      "odds": "MS1: 8.50 | X: 5.75 | MS2: 1.30"
     },
     {
       "league": "İspanya La Liga",
@@ -80,7 +104,7 @@
       "away": "Rayo Vallecano",
       "time": "18:15",
       "date": "08.11.2026",
-      "odds": "MS1: 1.71 | X: 4.00 | MS2: 4.50"
+      "odds": "MS1: 1.72 | X: 4.00 | MS2: 4.40"
     },
     {
       "league": "İspanya La Liga",
@@ -88,7 +112,7 @@
       "away": "Getafe",
       "time": "20:30",
       "date": "08.11.2026",
-      "odds": "MS1: 1.49 | X: 4.25 | MS2: 6.75"
+      "odds": "MS1: 1.50 | X: 4.25 | MS2: 6.50"
     },
     {
       "league": "İspanya La Liga",
@@ -96,7 +120,7 @@
       "away": "Levante",
       "time": "20:30",
       "date": "08.11.2026",
-      "odds": "MS1: 1.77 | X: 3.80 | MS2: 4.35"
+      "odds": "MS1: 1.77 | X: 3.85 | MS2: 4.30"
     },
     {
       "league": "İspanya La Liga",
@@ -104,7 +128,7 @@
       "away": "FC Barcelona",
       "time": "23:00",
       "date": "08.11.2026",
-      "odds": "MS1: 3.55 | X: 4.10 | MS2: 1.89"
+      "odds": "MS1: 3.50 | X: 4.10 | MS2: 1.89"
     }
   ]
 }
