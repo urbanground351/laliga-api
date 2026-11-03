@@ -1,14 +1,30 @@
 {
-  "last_updated": "2026-11-03T16:30:17.781670",
+  "last_updated": "2026-11-03T21:54:37.953011",
   "source": "Kambi CDN (La Liga)",
   "matches": [
+    {
+      "league": "İspanya La Liga",
+      "home": "Cacereño",
+      "away": "Lugo",
+      "time": "21:00",
+      "date": "06.11.2026",
+      "odds": "MS1: 2.65 | X: 3.00 | MS2: 2.45"
+    },
     {
       "league": "İspanya La Liga",
       "home": "Sevilla",
       "away": "Alaves",
       "time": "23:00",
       "date": "06.11.2026",
-      "odds": "MS1: 1.95 | X: 3.40 | MS2: 4.00"
+      "odds": "MS1: 1.96 | X: 3.35 | MS2: 4.00"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Real Avilés CF",
+      "away": "CD Extremadura",
+      "time": "23:15",
+      "date": "06.11.2026",
+      "odds": "MS1: 2.20 | X: 3.25 | MS2: 2.80"
     },
     {
       "league": "İspanya La Liga",
@@ -88,7 +104,7 @@
       "away": "Real Betis",
       "time": "16:00",
       "date": "08.11.2026",
-      "odds": "MS1: 3.10 | X: 3.70 | MS2: 2.15"
+      "odds": "MS1: 3.15 | X: 3.70 | MS2: 2.15"
     },
     {
       "league": "İspanya La Liga",
@@ -128,7 +144,7 @@
       "away": "FC Barcelona",
       "time": "23:00",
       "date": "08.11.2026",
-      "odds": "MS1: 3.50 | X: 4.10 | MS2: 1.89"
+      "odds": "MS1: 3.70 | X: 4.10 | MS2: 1.84"
     }
   ]
 }
