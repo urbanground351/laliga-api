@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T16:57:34.776555",
+  "last_updated": "2026-11-05T22:34:26.342764",
   "source": "Kambi CDN (La Liga)",
   "matches": [
     {
@@ -16,7 +16,7 @@
       "away": "Alaves",
       "time": "23:00",
       "date": "06.11.2026",
-      "odds": "MS1: 1.91 | X: 3.40 | MS2: 4.10"
+      "odds": "MS1: 1.92 | X: 3.45 | MS2: 4.00"
     },
     {
       "league": "İspanya La Liga",
@@ -72,7 +72,7 @@
       "away": "UD Ourense",
       "time": "18:30",
       "date": "07.11.2026",
-      "odds": "MS1: 1.68 | X: 3.35 | MS2: 4.40"
+      "odds": "MS1: 1.60 | X: 3.50 | MS2: 4.80"
     },
     {
       "league": "İspanya La Liga",
@@ -228,11 +228,35 @@
     },
     {
       "league": "İspanya La Liga",
+      "home": "Mirandés",
+      "away": "CD Coria",
+      "time": "20:15",
+      "date": "08.11.2026",
+      "odds": "MS1: 1.49 | X: 3.85 | MS2: 5.30"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Cultural Leonesa",
+      "away": "Ponferradina",
+      "time": "20:15",
+      "date": "08.11.2026",
+      "odds": "MS1: 1.93 | X: 3.00 | MS2: 3.75"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Merida AD",
+      "away": "Athletic Club Bilbao II",
+      "time": "20:15",
+      "date": "08.11.2026",
+      "odds": "MS1: 2.38 | X: 3.25 | MS2: 2.55"
+    },
+    {
+      "league": "İspanya La Liga",
       "home": "Villarreal",
       "away": "Getafe",
       "time": "20:30",
       "date": "08.11.2026",
-      "odds": "MS1: 1.42 | X: 4.60 | MS2: 7.50"
+      "odds": "MS1: 1.43 | X: 4.60 | MS2: 7.50"
     },
     {
       "league": "İspanya La Liga",
@@ -241,6 +265,14 @@
       "time": "20:30",
       "date": "08.11.2026",
       "odds": "MS1: 1.78 | X: 3.85 | MS2: 4.30"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Real Murcia",
+      "away": "Algeciras CF",
+      "time": "22:30",
+      "date": "08.11.2026",
+      "odds": "MS1: 1.84 | X: 3.25 | MS2: 3.80"
     },
     {
       "league": "İspanya La Liga",
