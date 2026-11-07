@@ -1,86 +1,30 @@
 {
-  "last_updated": "2026-11-07T14:24:47.499001",
+  "last_updated": "2026-11-07T18:57:34.356049",
   "source": "Kambi CDN (La Liga)",
   "matches": [
-    {
-      "league": "İspanya La Liga",
-      "home": "Málaga",
-      "away": "Racing Santander",
-      "time": "16:00",
-      "date": "07.11.2026",
-      "odds": "MS1: 10.50 | X: 3.75 | MS2: 1.41"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "Athletic Club Bilbao (W)",
-      "away": "Real Madrid (W)",
-      "time": "18:00",
-      "date": "07.11.2026",
-      "odds": "MS1: 4.20 | X: 3.60 | MS2: 1.65"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "Espanyol",
-      "away": "Deportivo A Coruña",
-      "time": "18:15",
-      "date": "07.11.2026",
-      "odds": "MS1: 2.50 | X: 3.25 | MS2: 2.85"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "Pontevedra",
-      "away": "UD Ourense",
-      "time": "18:30",
-      "date": "07.11.2026",
-      "odds": "MS1: 1.60 | X: 3.50 | MS2: 4.80"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "Barakaldo",
-      "away": "Real Unión",
-      "time": "18:30",
-      "date": "07.11.2026",
-      "odds": "MS1: 1.89 | X: 3.25 | MS2: 3.50"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "Alcorcón",
-      "away": "Real Jaén CF",
-      "time": "18:30",
-      "date": "07.11.2026",
-      "odds": "MS1: 1.30 | X: 4.60 | MS2: 7.50"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "Eibar (W)",
-      "away": "Real Sociedad (W)",
-      "time": "19:00",
-      "date": "07.11.2026",
-      "odds": "MS1: 4.10 | X: 3.40 | MS2: 1.71"
-    },
     {
       "league": "İspanya La Liga",
       "home": "Osasuna",
       "away": "Athletic Bilbao",
       "time": "20:30",
       "date": "07.11.2026",
-      "odds": "MS1: 3.55 | X: 3.45 | MS2: 2.07"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "Unionistas de Salamanca CF",
-      "away": "Zamora CF",
-      "time": "20:45",
-      "date": "07.11.2026",
-      "odds": "MS1: 2.65 | X: 3.05 | MS2: 2.43"
+      "odds": "MS1: 5.10 | X: 1.74 | MS2: 3.30"
     },
     {
       "league": "İspanya La Liga",
       "home": "FC Cartagena",
       "away": "UE Sant Andreu",
-      "time": "20:45",
+      "time": "20:47",
       "date": "07.11.2026",
-      "odds": "MS1: 1.72 | X: 3.40 | MS2: 4.10"
+      "odds": "MS1: 2.48 | X: 2.38 | MS2: 3.40"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Unionistas de Salamanca CF",
+      "away": "Zamora CF",
+      "time": "20:48",
+      "date": "07.11.2026",
+      "odds": "MS1: 1.53 | X: 3.25 | MS2: 6.75"
     },
     {
       "league": "İspanya La Liga",
@@ -88,7 +32,7 @@
       "away": "Real Madrid",
       "time": "23:00",
       "date": "07.11.2026",
-      "odds": "MS1: 10.50 | X: 6.50 | MS2: 1.24"
+      "odds": "MS1: 11.00 | X: 6.50 | MS2: 1.23"
     },
     {
       "league": "İspanya La Liga",
@@ -96,7 +40,7 @@
       "away": "Huesca",
       "time": "23:00",
       "date": "07.11.2026",
-      "odds": "MS1: 1.76 | X: 3.35 | MS2: 4.00"
+      "odds": "MS1: 1.58 | X: 3.55 | MS2: 4.90"
     },
     {
       "league": "İspanya La Liga",
@@ -168,7 +112,7 @@
       "away": "Madrid CFF (W)",
       "time": "18:00",
       "date": "08.11.2026",
-      "odds": "MS1: 0.00 | X: 23.00 | MS2: 0.00"
+      "odds": "MS1: 0.00 | X: 31.00 | MS2: 0.00"
     },
     {
       "league": "İspanya La Liga",
@@ -184,7 +128,7 @@
       "away": "Rayo Vallecano",
       "time": "18:15",
       "date": "08.11.2026",
-      "odds": "MS1: 1.71 | X: 4.10 | MS2: 4.50"
+      "odds": "MS1: 1.70 | X: 4.10 | MS2: 4.60"
     },
     {
       "league": "İspanya La Liga",
@@ -224,7 +168,7 @@
       "away": "Levante",
       "time": "20:30",
       "date": "08.11.2026",
-      "odds": "MS1: 1.84 | X: 3.75 | MS2: 4.10"
+      "odds": "MS1: 1.87 | X: 3.65 | MS2: 4.00"
     },
     {
       "league": "İspanya La Liga",
