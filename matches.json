@@ -1,31 +1,7 @@
 {
-  "last_updated": "2026-11-08T19:24:35.972310",
+  "last_updated": "2026-11-08T22:58:58.455103",
   "source": "Kambi CDN (La Liga)",
   "matches": [
-    {
-      "league": "İspanya La Liga",
-      "home": "Celta Vigo",
-      "away": "Levante",
-      "time": "20:34",
-      "date": "08.11.2026",
-      "odds": "MS1: 17.00 | X: 1.04 | MS2: 26.00"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "Real Murcia",
-      "away": "Algeciras CF",
-      "time": "22:30",
-      "date": "08.11.2026",
-      "odds": "MS1: 1.76 | X: 3.30 | MS2: 4.10"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "Atlético Madrid",
-      "away": "FC Barcelona",
-      "time": "23:00",
-      "date": "08.11.2026",
-      "odds": "MS1: 3.55 | X: 4.50 | MS2: 1.81"
-    },
     {
       "league": "İspanya La Liga",
       "home": "Atlético Madrid (W)",
@@ -40,7 +16,7 @@
       "away": "Valencia (W)",
       "time": "23:00",
       "date": "09.11.2026",
-      "odds": "MS1: 1.79 | X: 3.35 | MS2: 3.75"
+      "odds": "MS1: 1.71 | X: 3.50 | MS2: 4.00"
     }
   ]
 }
