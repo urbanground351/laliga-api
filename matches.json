@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-11-10T18:17:45.503698",
+  "last_updated": "2026-11-10T23:30:45.430002",
   "source": "Kambi CDN (La Liga)",
   "matches": [
+    {
+      "league": "İspanya La Liga",
+      "home": "Villarreal CF (W)",
+      "away": "Fundación Albacete (W)",
+      "time": "14:00",
+      "date": "11.11.2026",
+      "odds": "MS1: 2.00 | X: 2.80 | MS2: 3.65"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Ponferradina",
+      "away": "Cacereño",
+      "time": "21:00",
+      "date": "13.11.2026",
+      "odds": "MS1: 1.94 | X: 3.05 | MS2: 3.65"
+    },
     {
       "league": "İspanya La Liga",
       "home": "Espanyol (W)",
