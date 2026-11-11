@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-11-11T10:23:19.749555",
+  "last_updated": "2026-11-11T17:57:35.647013",
   "source": "Kambi CDN (La Liga)",
   "matches": [
-    {
-      "league": "İspanya La Liga",
-      "home": "Villarreal CF (W)",
-      "away": "Fundación Albacete (W)",
-      "time": "14:00",
-      "date": "11.11.2026",
-      "odds": "MS1: 2.00 | X: 2.80 | MS2: 3.65"
-    },
     {
       "league": "İspanya La Liga",
       "home": "Ponferradina",
@@ -24,7 +16,15 @@
       "away": "Real Madrid Castilla",
       "time": "23:15",
       "date": "13.11.2026",
-      "odds": "MS1: 2.88 | X: 3.20 | MS2: 2.18"
+      "odds": "MS1: 2.45 | X: 3.15 | MS2: 2.55"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "FC Barcelona B (W)",
+      "away": "Sport Extremadura CD (W)",
+      "time": "13:00",
+      "date": "14.11.2026",
+      "odds": "MS1: 1.22 | X: 5.10 | MS2: 9.00"
     },
     {
       "league": "İspanya La Liga",
@@ -33,6 +33,38 @@
       "time": "14:00",
       "date": "14.11.2026",
       "odds": "MS1: 2.75 | X: 3.00 | MS2: 2.38"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Real Sociedad II (W)",
+      "away": "Levante (W)",
+      "time": "14:45",
+      "date": "14.11.2026",
+      "odds": "MS1: 2.04 | X: 3.30 | MS2: 3.00"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Athletic Club Bilbao II",
+      "away": "Racing de Ferrol",
+      "time": "15:00",
+      "date": "14.11.2026",
+      "odds": "MS1: 2.00 | X: 3.30 | MS2: 3.15"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Real Unión",
+      "away": "Cultural Leonesa",
+      "time": "18:30",
+      "date": "14.11.2026",
+      "odds": "MS1: 2.43 | X: 3.00 | MS2: 2.70"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "UD Ourense",
+      "away": "Merida AD",
+      "time": "18:30",
+      "date": "14.11.2026",
+      "odds": "MS1: 2.60 | X: 3.15 | MS2: 2.38"
     },
     {
       "league": "İspanya La Liga",
@@ -104,7 +136,7 @@
       "away": "Deportivo A Coruña",
       "time": "16:00",
       "date": "21.11.2026",
-      "odds": "MS1: 2.05 | X: 3.30 | MS2: 3.75"
+      "odds": "MS1: 2.06 | X: 3.30 | MS2: 3.75"
     },
     {
       "league": "İspanya La Liga",
@@ -168,7 +200,7 @@
       "away": "Elche",
       "time": "23:00",
       "date": "23.11.2026",
-      "odds": "MS1: 2.12 | X: 3.70 | MS2: 3.20"
+      "odds": "MS1: 2.12 | X: 3.75 | MS2: 3.15"
     }
   ]
 }
