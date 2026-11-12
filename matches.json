@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-12T07:04:22.922868",
+  "last_updated": "2026-11-12T15:55:34.971165",
   "source": "Kambi CDN (La Liga)",
   "matches": [
     {
@@ -16,7 +16,7 @@
       "away": "Real Madrid Castilla",
       "time": "23:15",
       "date": "13.11.2026",
-      "odds": "MS1: 2.45 | X: 3.15 | MS2: 2.55"
+      "odds": "MS1: 2.30 | X: 3.15 | MS2: 2.70"
     },
     {
       "league": "İspanya La Liga",
@@ -52,19 +52,19 @@
     },
     {
       "league": "İspanya La Liga",
-      "home": "Real Unión",
-      "away": "Cultural Leonesa",
-      "time": "18:30",
-      "date": "14.11.2026",
-      "odds": "MS1: 2.43 | X: 3.00 | MS2: 2.70"
-    },
-    {
-      "league": "İspanya La Liga",
       "home": "UD Ourense",
       "away": "Merida AD",
       "time": "18:30",
       "date": "14.11.2026",
-      "odds": "MS1: 2.60 | X: 3.15 | MS2: 2.38"
+      "odds": "MS1: 3.30 | X: 3.30 | MS2: 1.96"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Real Unión",
+      "away": "Cultural Leonesa",
+      "time": "18:30",
+      "date": "14.11.2026",
+      "odds": "MS1: 2.35 | X: 3.15 | MS2: 2.70"
     },
     {
       "league": "İspanya La Liga",
@@ -88,7 +88,7 @@
       "away": "UE Sant Andreu",
       "time": "20:30",
       "date": "14.11.2026",
-      "odds": "MS1: 3.00 | X: 3.25 | MS2: 2.08"
+      "odds": "MS1: 2.80 | X: 3.25 | MS2: 2.23"
     },
     {
       "league": "İspanya La Liga",
@@ -112,7 +112,7 @@
       "away": "Unionistas de Salamanca CF",
       "time": "20:45",
       "date": "14.11.2026",
-      "odds": "MS1: 2.07 | X: 3.20 | MS2: 3.10"
+      "odds": "MS1: 1.94 | X: 3.25 | MS2: 3.40"
     },
     {
       "league": "İspanya La Liga",
@@ -132,6 +132,22 @@
     },
     {
       "league": "İspanya La Liga",
+      "home": "Real Jaén CF",
+      "away": "Real Zaragoza",
+      "time": "23:00",
+      "date": "14.11.2026",
+      "odds": "MS1: 4.00 | X: 3.35 | MS2: 1.76"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Atlético Madrid B",
+      "away": "Teruel",
+      "time": "14:00",
+      "date": "15.11.2026",
+      "odds": "MS1: 1.46 | X: 3.85 | MS2: 5.80"
+    },
+    {
+      "league": "İspanya La Liga",
       "home": "Madrid CFF (W)",
       "away": "CDEF Logrono (W)",
       "time": "14:00",
@@ -140,11 +156,43 @@
     },
     {
       "league": "İspanya La Liga",
+      "home": "UD Ibiza",
+      "away": "FC Cartagena",
+      "time": "14:00",
+      "date": "15.11.2026",
+      "odds": "MS1: 1.89 | X: 3.25 | MS2: 3.55"
+    },
+    {
+      "league": "İspanya La Liga",
       "home": "Real Sociedad (W)",
       "away": "Athletic Club Bilbao (W)",
       "time": "14:00",
       "date": "15.11.2026",
       "odds": "MS1: 1.88 | X: 3.40 | MS2: 3.40"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "CD Extremadura",
+      "away": "Pontevedra",
+      "time": "14:00",
+      "date": "15.11.2026",
+      "odds": "MS1: 1.96 | X: 3.10 | MS2: 3.50"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "CP Cacereno (W)",
+      "away": "Osasuna (W)",
+      "time": "14:00",
+      "date": "15.11.2026",
+      "odds": "MS1: 2.88 | X: 3.05 | MS2: 2.18"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "Zamora CF",
+      "away": "Real Avilés CF",
+      "time": "16:15",
+      "date": "15.11.2026",
+      "odds": "MS1: 1.71 | X: 3.40 | MS2: 4.20"
     },
     {
       "league": "İspanya La Liga",
@@ -200,7 +248,7 @@
       "away": "Real Betis",
       "time": "20:30",
       "date": "21.11.2026",
-      "odds": "MS1: 2.90 | X: 3.55 | MS2: 2.32"
+      "odds": "MS1: 2.85 | X: 3.55 | MS2: 2.35"
     },
     {
       "league": "İspanya La Liga",
