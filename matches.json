@@ -1,23 +1,7 @@
 {
-  "last_updated": "2026-11-13T17:27:09.422110",
+  "last_updated": "2026-11-13T22:45:49.517715",
   "source": "Kambi CDN (La Liga)",
   "matches": [
-    {
-      "league": "İspanya La Liga",
-      "home": "Ponferradina",
-      "away": "Cacereño",
-      "time": "21:00",
-      "date": "13.11.2026",
-      "odds": "MS1: 1.96 | X: 3.05 | MS2: 3.60"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "Gimnàstic de Tarragona",
-      "away": "Real Madrid Castilla",
-      "time": "23:15",
-      "date": "13.11.2026",
-      "odds": "MS1: 2.63 | X: 3.15 | MS2: 2.38"
-    },
     {
       "league": "İspanya La Liga",
       "home": "FC Barcelona B (W)",
@@ -216,7 +200,7 @@
       "away": "Celta Vigo",
       "time": "23:00",
       "date": "21.11.2026",
-      "odds": "MS1: 1.19 | X: 7.00 | MS2: 13.00"
+      "odds": "MS1: 1.20 | X: 7.00 | MS2: 12.50"
     },
     {
       "league": "İspanya La Liga",
