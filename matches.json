@@ -1,54 +1,30 @@
 {
-  "last_updated": "2026-11-14T09:26:35.903333",
+  "last_updated": "2026-11-14T15:56:27.613106",
   "source": "Kambi CDN (La Liga)",
   "matches": [
     {
       "league": "İspanya La Liga",
-      "home": "FC Barcelona B (W)",
-      "away": "Sport Extremadura CD (W)",
-      "time": "13:00",
-      "date": "14.11.2026",
-      "odds": "MS1: 1.35 | X: 4.25 | MS2: 6.75"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "Real Sociedad II (W)",
-      "away": "Levante (W)",
-      "time": "14:45",
-      "date": "14.11.2026",
-      "odds": "MS1: 3.60 | X: 3.75 | MS2: 1.71"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "Athletic Club Bilbao II",
-      "away": "Racing de Ferrol",
-      "time": "15:00",
-      "date": "14.11.2026",
-      "odds": "MS1: 2.00 | X: 3.30 | MS2: 3.15"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "UD Ourense",
-      "away": "Merida AD",
-      "time": "18:30",
-      "date": "14.11.2026",
-      "odds": "MS1: 3.30 | X: 3.30 | MS2: 1.96"
-    },
-    {
-      "league": "İspanya La Liga",
       "home": "Real Unión",
       "away": "Cultural Leonesa",
-      "time": "18:30",
+      "time": "18:31",
       "date": "14.11.2026",
-      "odds": "MS1: 2.35 | X: 3.15 | MS2: 2.70"
+      "odds": "MS1: 2.33 | X: 2.85 | MS2: 2.95"
     },
     {
       "league": "İspanya La Liga",
       "home": "CF Rayo Majadahonda",
       "away": "Águilas FC",
-      "time": "18:30",
+      "time": "18:31",
       "date": "14.11.2026",
-      "odds": "MS1: 2.30 | X: 2.80 | MS2: 3.05"
+      "odds": "MS1: 2.48 | X: 2.55 | MS2: 3.10"
+    },
+    {
+      "league": "İspanya La Liga",
+      "home": "UD Ourense",
+      "away": "Merida AD",
+      "time": "18:32",
+      "date": "14.11.2026",
+      "odds": "MS1: 3.55 | X: 2.90 | MS2: 2.04"
     },
     {
       "league": "İspanya La Liga",
@@ -136,7 +112,7 @@
       "away": "Real Avilés CF",
       "time": "16:15",
       "date": "15.11.2026",
-      "odds": "MS1: 1.71 | X: 3.40 | MS2: 4.20"
+      "odds": "MS1: 1.80 | X: 3.30 | MS2: 3.85"
     },
     {
       "league": "İspanya La Liga",
@@ -153,94 +129,6 @@
       "time": "18:30",
       "date": "15.11.2026",
       "odds": "MS1: 2.06 | X: 3.05 | MS2: 3.25"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "Real Murcia",
-      "away": "Alcorcón",
-      "time": "20:45",
-      "date": "15.11.2026",
-      "odds": "MS1: 2.38 | X: 3.10 | MS2: 2.65"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "Athletic Bilbao",
-      "away": "Espanyol",
-      "time": "23:00",
-      "date": "20.11.2026",
-      "odds": "MS1: 1.50 | X: 4.30 | MS2: 6.40"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "Alaves",
-      "away": "Deportivo A Coruña",
-      "time": "16:00",
-      "date": "21.11.2026",
-      "odds": "MS1: 2.12 | X: 3.25 | MS2: 3.65"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "Rayo Vallecano",
-      "away": "Valencia",
-      "time": "18:15",
-      "date": "21.11.2026",
-      "odds": "MS1: 1.97 | X: 3.45 | MS2: 3.85"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "Sevilla",
-      "away": "Real Betis",
-      "time": "20:30",
-      "date": "21.11.2026",
-      "odds": "MS1: 2.88 | X: 3.55 | MS2: 2.33"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "Real Madrid",
-      "away": "Celta Vigo",
-      "time": "23:00",
-      "date": "21.11.2026",
-      "odds": "MS1: 1.20 | X: 7.00 | MS2: 12.50"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "FC Barcelona",
-      "away": "Villarreal",
-      "time": "16:00",
-      "date": "22.11.2026",
-      "odds": "MS1: 1.22 | X: 7.00 | MS2: 10.50"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "Racing Santander",
-      "away": "Real Sociedad",
-      "time": "18:15",
-      "date": "22.11.2026",
-      "odds": "MS1: 3.25 | X: 4.00 | MS2: 2.08"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "Osasuna",
-      "away": "Málaga",
-      "time": "20:30",
-      "date": "22.11.2026",
-      "odds": "MS1: 1.80 | X: 3.60 | MS2: 4.50"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "Getafe",
-      "away": "Atlético Madrid",
-      "time": "23:00",
-      "date": "22.11.2026",
-      "odds": "MS1: 5.75 | X: 3.80 | MS2: 1.62"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "Levante",
-      "away": "Elche",
-      "time": "23:00",
-      "date": "23.11.2026",
-      "odds": "MS1: 2.12 | X: 3.75 | MS2: 3.15"
     }
   ]
 }
