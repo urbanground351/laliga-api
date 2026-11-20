@@ -1,38 +1,30 @@
 {
-  "last_updated": "2026-11-20T13:01:15.944098",
+  "last_updated": "2026-11-20T20:59:44.513203",
   "source": "Kambi CDN (La Liga)",
   "matches": [
     {
       "league": "İspanya La Liga",
-      "home": "Teruel",
-      "away": "Hércules CF",
-      "time": "21:00",
+      "home": "Villarreal CF B",
+      "away": "Gimnàstic de Tarragona",
+      "time": "23:01",
       "date": "20.11.2026",
-      "odds": "MS1: 3.55 | X: 3.00 | MS2: 2.00"
+      "odds": "MS1: 3.70 | X: 2.70 | MS2: 2.10"
     },
     {
       "league": "İspanya La Liga",
       "home": "Athletic Bilbao",
       "away": "Espanyol",
-      "time": "23:00",
+      "time": "23:02",
       "date": "20.11.2026",
-      "odds": "MS1: 1.45 | X: 4.50 | MS2: 7.00"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "Villarreal CF B",
-      "away": "Gimnàstic de Tarragona",
-      "time": "23:00",
-      "date": "20.11.2026",
-      "odds": "MS1: 1.62 | X: 3.55 | MS2: 4.60"
+      "odds": "MS1: 1.68 | X: 3.05 | MS2: 6.50"
     },
     {
       "league": "İspanya La Liga",
       "home": "Real Madrid Castilla",
       "away": "Real Murcia",
-      "time": "23:15",
+      "time": "23:17",
       "date": "20.11.2026",
-      "odds": "MS1: 1.87 | X: 3.35 | MS2: 3.50"
+      "odds": "MS1: 11.50 | X: 5.80 | MS2: 1.17"
     },
     {
       "league": "İspanya La Liga",
@@ -48,7 +40,7 @@
       "away": "Valencia",
       "time": "18:15",
       "date": "21.11.2026",
-      "odds": "MS1: 1.94 | X: 3.45 | MS2: 3.95"
+      "odds": "MS1: 1.91 | X: 3.50 | MS2: 4.10"
     },
     {
       "league": "İspanya La Liga",
@@ -64,7 +56,7 @@
       "away": "Real Betis",
       "time": "20:30",
       "date": "21.11.2026",
-      "odds": "MS1: 2.95 | X: 3.55 | MS2: 2.30"
+      "odds": "MS1: 3.00 | X: 3.55 | MS2: 2.25"
     },
     {
       "league": "İspanya La Liga",
@@ -96,7 +88,7 @@
       "away": "Celta Vigo",
       "time": "23:00",
       "date": "21.11.2026",
-      "odds": "MS1: 1.17 | X: 7.50 | MS2: 15.00"
+      "odds": "MS1: 1.15 | X: 8.00 | MS2: 16.00"
     },
     {
       "league": "İspanya La Liga",
@@ -144,7 +136,7 @@
       "away": "Villarreal",
       "time": "16:00",
       "date": "22.11.2026",
-      "odds": "MS1: 1.19 | X: 7.50 | MS2: 12.00"
+      "odds": "MS1: 1.19 | X: 7.50 | MS2: 11.50"
     },
     {
       "league": "İspanya La Liga",
@@ -176,7 +168,7 @@
       "away": "Real Sociedad",
       "time": "18:15",
       "date": "22.11.2026",
-      "odds": "MS1: 3.10 | X: 4.10 | MS2: 2.05"
+      "odds": "MS1: 3.20 | X: 4.10 | MS2: 2.00"
     },
     {
       "league": "İspanya La Liga",
@@ -200,7 +192,7 @@
       "away": "Málaga",
       "time": "20:30",
       "date": "22.11.2026",
-      "odds": "MS1: 1.81 | X: 3.60 | MS2: 4.40"
+      "odds": "MS1: 1.80 | X: 3.60 | MS2: 4.50"
     },
     {
       "league": "İspanya La Liga",
@@ -224,7 +216,7 @@
       "away": "Elche",
       "time": "23:00",
       "date": "23.11.2026",
-      "odds": "MS1: 2.15 | X: 3.60 | MS2: 3.15"
+      "odds": "MS1: 2.15 | X: 3.50 | MS2: 3.25"
     },
     {
       "league": "İspanya La Liga",
@@ -256,7 +248,7 @@
       "away": "Atlético Madrid",
       "time": "20:30",
       "date": "28.11.2026",
-      "odds": "MS1: 5.50 | X: 4.30 | MS2: 1.55"
+      "odds": "MS1: 5.60 | X: 4.40 | MS2: 1.58"
     },
     {
       "league": "İspanya La Liga",
@@ -288,7 +280,7 @@
       "away": "Villarreal",
       "time": "20:30",
       "date": "29.11.2026",
-      "odds": "MS1: 2.63 | X: 3.50 | MS2: 2.55"
+      "odds": "MS1: 2.65 | X: 3.45 | MS2: 2.55"
     },
     {
       "league": "İspanya La Liga",
