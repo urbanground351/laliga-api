@@ -1,7 +1,15 @@
 {
-  "last_updated": "2026-11-24T09:42:02.767500",
+  "last_updated": "2026-11-24T20:20:48.208658",
   "source": "Kambi CDN (La Liga)",
   "matches": [
+    {
+      "league": "İspanya La Liga",
+      "home": "Athletic Club Bilbao II",
+      "away": "Cultural Leonesa",
+      "time": "21:00",
+      "date": "27.11.2026",
+      "odds": "MS1: 2.25 | X: 3.05 | MS2: 2.88"
+    },
     {
       "league": "İspanya La Liga",
       "home": "Levante",
@@ -48,7 +56,7 @@
       "away": "Osasuna",
       "time": "16:00",
       "date": "29.11.2026",
-      "odds": "MS1: 2.20 | X: 3.30 | MS2: 3.40"
+      "odds": "MS1: 2.18 | X: 3.30 | MS2: 3.40"
     },
     {
       "league": "İspanya La Liga",
@@ -80,7 +88,7 @@
       "away": "Getafe",
       "time": "23:00",
       "date": "30.11.2026",
-      "odds": "MS1: 2.05 | X: 3.20 | MS2: 3.95"
+      "odds": "MS1: 2.02 | X: 3.20 | MS2: 4.00"
     },
     {
       "league": "İspanya La Liga",
@@ -88,7 +96,7 @@
       "away": "Real Madrid",
       "time": "21:00",
       "date": "02.12.2026",
-      "odds": "MS1: 6.50 | X: 5.40 | MS2: 1.40"
+      "odds": "MS1: 6.75 | X: 5.50 | MS2: 1.38"
     },
     {
       "league": "İspanya La Liga",
@@ -96,7 +104,7 @@
       "away": "Atlético Madrid",
       "time": "23:30",
       "date": "02.12.2026",
-      "odds": "MS1: 1.44 | X: 5.40 | MS2: 5.75"
+      "odds": "MS1: 1.43 | X: 5.50 | MS2: 5.80"
     },
     {
       "league": "İspanya La Liga",
@@ -104,7 +112,7 @@
       "away": "Espanyol",
       "time": "23:00",
       "date": "04.12.2026",
-      "odds": "MS1: 1.92 | X: 3.45 | MS2: 4.10"
+      "odds": "MS1: 1.90 | X: 3.50 | MS2: 4.10"
     },
     {
       "league": "İspanya La Liga",
@@ -112,7 +120,7 @@
       "away": "Deportivo A Coruña",
       "time": "16:00",
       "date": "05.12.2026",
-      "odds": "MS1: 2.43 | X: 3.45 | MS2: 2.85"
+      "odds": "MS1: 2.40 | X: 3.45 | MS2: 2.85"
     },
     {
       "league": "İspanya La Liga",
@@ -120,7 +128,7 @@
       "away": "Levante",
       "time": "18:15",
       "date": "05.12.2026",
-      "odds": "MS1: 1.83 | X: 3.80 | MS2: 4.00"
+      "odds": "MS1: 1.78 | X: 3.90 | MS2: 4.25"
     },
     {
       "league": "İspanya La Liga",
@@ -128,7 +136,7 @@
       "away": "Real Sociedad",
       "time": "20:30",
       "date": "05.12.2026",
-      "odds": "MS1: 1.70 | X: 4.30 | MS2: 4.20"
+      "odds": "MS1: 1.68 | X: 4.35 | MS2: 4.30"
     },
     {
       "league": "İspanya La Liga",
@@ -136,7 +144,7 @@
       "away": "Celta Vigo",
       "time": "23:00",
       "date": "05.12.2026",
-      "odds": "MS1: 1.10 | X: 11.00 | MS2: 19.00"
+      "odds": "MS1: 1.09 | X: 11.50 | MS2: 20.00"
     },
     {
       "league": "İspanya La Liga",
@@ -144,7 +152,7 @@
       "away": "Elche",
       "time": "16:00",
       "date": "06.12.2026",
-      "odds": "MS1: 2.06 | X: 3.55 | MS2: 3.45"
+      "odds": "MS1: 2.04 | X: 3.55 | MS2: 3.50"
     },
     {
       "league": "İspanya La Liga",
@@ -152,7 +160,7 @@
       "away": "Real Madrid",
       "time": "18:15",
       "date": "06.12.2026",
-      "odds": "MS1: 4.60 | X: 4.30 | MS2: 1.65"
+      "odds": "MS1: 4.60 | X: 4.40 | MS2: 1.63"
     },
     {
       "league": "İspanya La Liga",
@@ -160,7 +168,7 @@
       "away": "Valencia",
       "time": "20:30",
       "date": "06.12.2026",
-      "odds": "MS1: 2.38 | X: 3.05 | MS2: 3.25"
+      "odds": "MS1: 2.35 | X: 3.10 | MS2: 3.25"
     },
     {
       "league": "İspanya La Liga",
@@ -168,7 +176,7 @@
       "away": "Real Betis",
       "time": "23:00",
       "date": "06.12.2026",
-      "odds": "MS1: 1.63 | X: 4.30 | MS2: 4.75"
+      "odds": "MS1: 1.60 | X: 4.40 | MS2: 4.90"
     },
     {
       "league": "İspanya La Liga",
@@ -176,7 +184,7 @@
       "away": "Málaga",
       "time": "23:00",
       "date": "07.12.2026",
-      "odds": "MS1: 1.48 | X: 4.50 | MS2: 7.00"
+      "odds": "MS1: 1.44 | X: 4.60 | MS2: 7.00"
     }
   ]
 }
