@@ -1,38 +1,14 @@
 {
-  "last_updated": "2026-11-27T14:25:25.674451",
+  "last_updated": "2026-11-27T22:49:41.304539",
   "source": "Kambi CDN (La Liga)",
   "matches": [
-    {
-      "league": "İspanya La Liga",
-      "home": "Athletic Club Bilbao II",
-      "away": "Cultural Leonesa",
-      "time": "21:00",
-      "date": "27.11.2026",
-      "odds": "MS1: 2.30 | X: 2.95 | MS2: 2.88"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "Levante",
-      "away": "Racing Santander",
-      "time": "23:00",
-      "date": "27.11.2026",
-      "odds": "MS1: 2.04 | X: 3.90 | MS2: 3.25"
-    },
-    {
-      "league": "İspanya La Liga",
-      "home": "Hércules CF",
-      "away": "Antequera CF",
-      "time": "23:15",
-      "date": "27.11.2026",
-      "odds": "MS1: 2.28 | X: 3.05 | MS2: 2.80"
-    },
     {
       "league": "İspanya La Liga",
       "home": "CD Coria",
       "away": "Ponferradina",
       "time": "15:00",
       "date": "28.11.2026",
-      "odds": "MS1: 2.48 | X: 3.05 | MS2: 2.60"
+      "odds": "MS1: 2.30 | X: 3.05 | MS2: 2.80"
     },
     {
       "league": "İspanya La Liga",
@@ -48,7 +24,7 @@
       "away": "Athletic Bilbao",
       "time": "18:15",
       "date": "28.11.2026",
-      "odds": "MS1: 4.90 | X: 3.75 | MS2: 1.71"
+      "odds": "MS1: 4.90 | X: 3.80 | MS2: 1.70"
     },
     {
       "league": "İspanya La Liga",
@@ -88,7 +64,7 @@
       "away": "Atlético Madrid",
       "time": "20:30",
       "date": "28.11.2026",
-      "odds": "MS1: 6.40 | X: 4.80 | MS2: 1.45"
+      "odds": "MS1: 6.50 | X: 4.70 | MS2: 1.45"
     },
     {
       "league": "İspanya La Liga",
@@ -128,7 +104,7 @@
       "away": "Alaves",
       "time": "23:00",
       "date": "28.11.2026",
-      "odds": "MS1: 1.12 | X: 9.50 | MS2: 19.00"
+      "odds": "MS1: 1.11 | X: 10.00 | MS2: 19.00"
     },
     {
       "league": "İspanya La Liga",
@@ -176,7 +152,7 @@
       "away": "FC Barcelona",
       "time": "18:15",
       "date": "29.11.2026",
-      "odds": "MS1: 11.00 | X: 6.50 | MS2: 1.24"
+      "odds": "MS1: 11.50 | X: 6.75 | MS2: 1.22"
     },
     {
       "league": "İspanya La Liga",
@@ -192,7 +168,7 @@
       "away": "Villarreal",
       "time": "20:30",
       "date": "29.11.2026",
-      "odds": "MS1: 2.70 | X: 3.30 | MS2: 2.60"
+      "odds": "MS1: 2.70 | X: 3.35 | MS2: 2.55"
     },
     {
       "league": "İspanya La Liga",
@@ -208,7 +184,7 @@
       "away": "Sevilla",
       "time": "23:00",
       "date": "29.11.2026",
-      "odds": "MS1: 2.12 | X: 3.65 | MS2: 3.25"
+      "odds": "MS1: 2.10 | X: 3.65 | MS2: 3.30"
     },
     {
       "league": "İspanya La Liga",
@@ -216,7 +192,7 @@
       "away": "Getafe",
       "time": "23:00",
       "date": "30.11.2026",
-      "odds": "MS1: 2.02 | X: 3.20 | MS2: 4.00"
+      "odds": "MS1: 2.02 | X: 3.25 | MS2: 3.95"
     },
     {
       "league": "İspanya La Liga",
